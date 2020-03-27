@@ -21,5 +21,3 @@ data <- search_tweets(q="#rstats", since=Sys.Date()-1, until=Sys.Date(),retryonr
 df<-data.frame(data$text,data$user_id,data$status_id,data$created_at,data$retweet_count)
 write.table(df, "Tweet_data.csv", sep = ",", col.names = !file.exists("Tweet_data.csv"), append = TRUE,row.names=FALSE)
 
-carSpeeds <- read.csv(file = 'Tweet_data.csv')
-print(carSpeeds)
