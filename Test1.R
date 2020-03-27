@@ -3,6 +3,7 @@ library("httr")
 # install.packages("jsonlite")
 library("jsonlite")
 
+#Function to store .rds files for each month
 yearwise_repositories <- function(year1){
   req <- GET("https://api.github.com/search/repositories?q=language:R&per_page=100&sort=stars&order=desc&page=1")
   stop_for_status(req)
@@ -52,7 +53,7 @@ yearwise_repositories <- function(year1){
   # saveRDS(df,paste("repos_of_",year1,".rds"))
 }
 
-
+#Function to combine all .rds files and output json and csv files
 combine_data <- function(year1){
   all_files<-list.files(pattern = ".rds")
   files<-c()
