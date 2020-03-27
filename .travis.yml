@@ -1,0 +1,45 @@
+language: r
+sudo: false
+cache: 
+  packages: true
+
+repos:
+  CRAN: https://cloud.r-project.org
+  ropensci: http://packages.ropensci.org
+
+env:
+  _R_CHECK_FORCE_SUGGESTS_=false
+  R_REMOTES_NO_ERRORS_FROM_WARNINGS=true
+
+matrix:
+  include:
+  - r: release
+
+before_install:
+  - echo -e "machine github.com\n  login $GITHUB_TOKEN" > ~/.netrc
+  - git lfs pull
+
+install: skip
+
+before_deploy:
+      # Set up git user name and tag this commit
+      - git config --local user.name "ananyboss"
+      - git config --local user.email "anany.7777777@gmail.com"
+      
+      
+deploy:
+  - provider: script
+    script: Rscript Test2.R $access_token_secret
+    skip_cleanup: true
+    file: "Tweet_data.csv"
+    overwrite: true
+    
+after_deploy:
+  - git fetch
+  - git checkout master
+  - git pull origin master
+  - git status
+  - git add Tweet_data.csv
+  - git commit -m "Added data for today"
+  - git push origin master
+
