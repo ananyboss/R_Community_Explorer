@@ -42,7 +42,7 @@
       },
 
       xAxis: {
-          data: data.categoryData,
+          data: data.cData,
           silent: false,
           splitLine: {
               show: false
@@ -64,41 +64,32 @@
       },
       series: [{
           type: 'bar',
-          data: data.valueData,
-          // color: #0000ff,
+          data: data.vData,
+          itemStyle: {color: '#0000ff'},
           // Set `large` for large data amount
           large: true
       }]
     };
 
     function generateData(count) {
-      var baseValue = Math.random() * 100;
       var time = +new Date();
-      var smallBaseValue;
 
       function next(idx) {
-          smallBaseValue = idx % 30 === 0
-              ? Math.random() * 700
-              : (smallBaseValue + Math.random() * 50 - 25);
-          baseValue += Math.random() * 2 - 1;
-          return Math.max(
-              0,
-              Math.round(baseValue + smallBaseValue) + 300
-          );
+          return Math.max(0,Math.random()*150 + Math.random()*50 - 100)
       }
 
-      var categoryData = [];
-      var valueData = [];
+      var cData = [];
+      var vData = [];
 
       for (var i = 0; i < count; i++) {
-          categoryData.push(echarts.format.formatTime('yyyy-MM-dd\nhh:mm:ss', time));
-          valueData.push(next(i).toFixed(2));
+          cData.push(echarts.format.formatTime('yyyy-MM-dd\nhh:mm:ss', time));
+          vData.push(next(i).toFixed(2));
           time += 600;
       }
 
       return {
-          categoryData: categoryData,
-          valueData: valueData
+          cData: cData,
+          vData: vData
       };
     }
     myChart.setOption(option);
