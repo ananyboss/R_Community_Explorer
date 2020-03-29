@@ -2878,3 +2878,808 @@ filter(month  &lt;= max(month[year == max(year)]))","389260230","124334101561810
 "Stay tuned for a handy little R package for analysing #photosynthetic gas exchange data 📈 🌾
 #photosynthesis #rstats  @LICOR_ENV @leaf2field https://t.co/EYFvfnaV2O","3159388350","1243328678907396096",2020-03-27 00:07:11,2
 "Today I learned that rpart has a hex logo! #rstats https://t.co/CYkYxF9VMs https://t.co/HRpWWjhh06","974707679791927298","1243327081355845642",2020-03-27 00:00:50,1
+"RProtoBuf 0.4.17: Robustified  {https://t.co/dk4F5XZBns} #rstats #DataScience","144592995","1244051507026317312",2020-03-28 23:59:27,3
+"Grid Search and Bayesian Hyperparameter Optimization using {tune} and {caret} packages  {https://t.co/7KQabLMIo6} #rstats #DataScience","144592995","1243744468723027968",2020-03-28 03:39:23,16
+"A deep dive into glmnet: predict.glmnet  {https://t.co/ls3syrC6iV} #rstats #DataScience","144592995","1243885335676891136",2020-03-28 12:59:08,12
+"Find the intersection of overlapping histograms in R  {https://t.co/rW6DcGX0Hl} #rstats #DataScience","144592995","1243712976571564032",2020-03-28 01:34:15,12
+"Photo Zoom Animator in iOS  {https://t.co/cKEkTT2cLL} #rstats #DataScience","144592995","1243838854286753794",2020-03-28 09:54:26,1
+"Le Monde puzzle [#1133]  {https://t.co/M8IqtRIs37} #rstats #DataScience","144592995","1243843871299207168",2020-03-28 10:14:23,3
+"E-Learning Quizzes with R/exams for Moodle and OpenOLAT  {https://t.co/B5K2dvd2sy} #rstats #DataScience","144592995","1243788527508369414",2020-03-28 06:34:28,16
+"Cutstom Plant LED Lights  {https://t.co/nvYpjB57Gy} #rstats #DataScience","144592995","1243713110013329409",2020-03-28 01:34:47,4
+"`mnist` array structure #tidyverse #rstats https://t.co/llGkrRY5Ih","935569091678691328","1244049213123592197",2020-03-28 23:50:20,1
+"Removing one of two ggplot legends #tidyverse #rstats https://t.co/QnSDi03XFE","935569091678691328","1243743418041487360",2020-03-28 03:35:13,1
+"Sensitivity Analysis- Plot/ Chart #tidyverse #rstats https://t.co/78uSykzOx7","935569091678691328","1244049213736062976",2020-03-28 23:50:20,1
+"ggplot add average line to specific months facet #tidyverse #rstats https://t.co/qVXkq3kAKa","935569091678691328","1244040544373944327",2020-03-28 23:15:53,1
+"RStudio gets stuck building a simple markdown site #tidyverse #rstats https://t.co/0IhtWnykqR","935569091678691328","1244007673261162498",2020-03-28 21:05:16,1
+"How I can adjust the scale of axis X with breaks as.integer when I graph missing dates in R ggplot2 #tidyverse #rstats https://t.co/q6wmrM6mnL","935569091678691328","1244043111850020865",2020-03-28 23:26:05,1
+"How to change date and time formats in r? #tidyverse #rstats https://t.co/Dg6Afqdkw5","935569091678691328","1243735868541734913",2020-03-28 03:05:13,1
+"Necesito practicar con reshape2, #tidyverse #rstats https://t.co/Rxgm4jxudg","935569091678691328","1243839058515824642",2020-03-28 09:55:15,1
+"Why is a part of this geom_density left out of the plot? #tidyverse #rstats https://t.co/UkMCkxmmrM","935569091678691328","1243914550287765508",2020-03-28 14:55:14,2
+"How to use quantile function with dplyr summarize_at #tidyverse #rstats https://t.co/BA6wXUDOWW","935569091678691328","1243934685396418560",2020-03-28 16:15:14,1
+"R: dplyr arrange by row number #tidyverse #rstats https://t.co/26GzlmTcj9","935569091678691328","1243957364325257216",2020-03-28 17:45:21,2
+"Plot lineplot with a \"year-less\" date-axis #tidyverse #rstats https://t.co/SySTi8hwgX","935569091678691328","1243957363696111617",2020-03-28 17:45:21,1
+"Importing excel vs Import dataset #tidyverse #rstats https://t.co/DD4xBpIENf","935569091678691328","1243946010046615553",2020-03-28 17:00:14,1
+"How to compare multiple specific columns in R #tidyverse #rstats https://t.co/jb2Afx7Ewz","935569091678691328","1244029066220634112",2020-03-28 22:30:16,1
+"how to use function for filter tibble #tidyverse #rstats https://t.co/6lZdns2Y9K","935569091678691328","1243977471516688384",2020-03-28 19:05:15,1
+"Max() function; want it to return the name of the data not the number #tidyverse #rstats https://t.co/NzNev8jJfM","935569091678691328","1243875546062303232",2020-03-28 12:20:14,2
+"Manual Colours in scale_colour_manual are not rendering properly #tidyverse #rstats https://t.co/J5brrjwIRo","935569091678691328","1243874290463838209",2020-03-28 12:15:15,1
+"Converting a variable with 10 numeric values into just 2 (0/1) #tidyverse #rstats https://t.co/MtsIYreBJj","935569091678691328","1244039336229773314",2020-03-28 23:11:05,1
+"Hierarchical (categorical) data to tree plot #tidyverse #rstats https://t.co/rOihgGbJGm","935569091678691328","1243951047229530112",2020-03-28 17:20:15,1
+"data manipulation dplyr: aggregates #tidyverse #rstats https://t.co/6ZzGqYPHku","935569091678691328","1244005162156544001",2020-03-28 20:55:17,2
+"Whats Cooking ?? - 2020 Shiny Contest Submission #tidyverse #rstats https://t.co/QBNOjZ6SCp","935569091678691328","1244027914586382337",2020-03-28 22:25:42,1
+"How to use a function to transform axis values with ggplot2? #tidyverse #rstats https://t.co/Z2OEfpZE8W","935569091678691328","1243890642964676610",2020-03-28 13:20:14,1
+"R dplyr::nth returns NA when correct value exists #tidyverse #rstats https://t.co/D9hzf06B9k","935569091678691328","1244020248350687232",2020-03-28 21:55:14,2
+"Forest plot in ggplot2 #tidyverse #rstats https://t.co/Ugs06Td1G1","935569091678691328","1243869254136586240",2020-03-28 11:55:14,2
+"R merge row which have min value in a column #tidyverse #rstats https://t.co/eAdjOgFjuN","935569091678691328","1244020247574859777",2020-03-28 21:55:14,2
+"How to separate boxplots in r? #tidyverse #rstats https://t.co/nTZAGIXmMv","935569091678691328","1243703171396050945",2020-03-28 00:55:17,1
+"Format of key label text in legend in ggplot #tidyverse #rstats https://t.co/uOlNWULF1X","935569091678691328","1244025591889833984",2020-03-28 22:16:28,1
+"Make R/Shiny/ggplot2 linegraph using 3 variables--date, state_territory, and continuous variable #tidyverse #rstats https://t.co/OrhtSaz0YX","935569091678691328","1243946009371332610",2020-03-28 17:00:14,1
+"RIL reference implementation for USB modems #tidyverse #rstats https://t.co/eOPdbiJFXJ","935569091678691328","1243709577348157442",2020-03-28 01:20:44,1
+"SIR into shiny app #tidyverse #rstats https://t.co/Sk2VX4yW89","935569091678691328","1243997596269580289",2020-03-28 20:25:13,1
+"Why am i getting error: 'ts' object must have one or more observations when I run command ggsdc from ggseas package? #tidyverse #rstats https://t.co/4wqNNWAVkv","935569091678691328","1243715734942834688",2020-03-28 01:45:12,1
+"Using ggplot to plot more than 6 groups #tidyverse #rstats https://t.co/Sf3NR14xrR","935569091678691328","1244023124259151872",2020-03-28 22:06:40,1
+"Take n most extreme values with tidyverse #tidyverse #rstats https://t.co/wfN8zObjXK","935569091678691328","1244023123613188096",2020-03-28 22:06:40,1
+"how to split on the special character \"[\"} in Rstudio #tidyverse #rstats https://t.co/ElQZt1Odll","935569091678691328","1243856666761854976",2020-03-28 11:05:13,1
+"R: Shift multiple columns by different number of rows #tidyverse #rstats https://t.co/9SwMJmtk9S","935569091678691328","1243966147130769408",2020-03-28 18:20:15,1
+"Extracting two types of data from variable, splitting it in two other variables and choosing one given condition. #tidyverse #rstats https://t.co/TpvahRb3eI","935569091678691328","1243732097317158917",2020-03-28 02:50:14,1
+"How is air_time calculated in flights data set of nycflights13 package R #tidyverse #rstats https://t.co/nFpr2TIvxO","935569091678691328","1243777397675167744",2020-03-28 05:50:14,1
+"Dataset Explorer - 2020 Shiny Contest Submission #tidyverse #rstats https://t.co/Mfrfmc9oYa","935569091678691328","1243979985657966592",2020-03-28 19:15:15,1
+"How to define the pipe operator? #tidyverse #rstats https://t.co/RdTr5HD9St","935569091678691328","1244007673974132736",2020-03-28 21:05:16,1
+"random pattern for geom_dotplot color #tidyverse #rstats https://t.co/LSYxHubu2R","935569091678691328","1243691985950707712",2020-03-28 00:10:50,1
+"Wrong visual plot representation of a correlation in RStudio #tidyverse #rstats https://t.co/559GszpqhD","935569091678691328","1243772361494716416",2020-03-28 05:30:13,1
+"Unable to loop over variable names #tidyverse #rstats https://t.co/FzlC8ohVhO","935569091678691328","1243700644093009920",2020-03-28 00:45:15,1
+"Why are the naming conventions for replacements different in stringr and forcats? #tidyverse #rstats https://t.co/KjGV9rGwRf","935569091678691328","1243831510215675907",2020-03-28 09:25:15,1
+"Running several correlations simultaneously in R #tidyverse #rstats https://t.co/3ChfHdemwq","935569091678691328","1243997595665608707",2020-03-28 20:25:13,1
+"I tried finding random number but failed to get 3 random integers which can be divisible by 5. #tidyverse #rstats https://t.co/JBjXxhwqxI","935569091678691328","1243986342234787841",2020-03-28 19:40:30,0
+"How I can do to graph missing dates in time series data using ggplot2? #tidyverse #rstats https://t.co/O3Y2Z0HU6c","935569091678691328","1243783692461490176",2020-03-28 06:15:15,2
+"get sequence of group in R #tidyverse #rstats https://t.co/Y6eyfCJ6Gp","935569091678691328","1243839059098828800",2020-03-28 09:55:15,2
+"Error applying xmlParse to a html format cells in R dataframe with r-dplyr #tidyverse #rstats https://t.co/3FxkZ1uYnO","935569091678691328","1243982504681517056",2020-03-28 19:25:15,1
+"How to plot multiple signals in one graph with same xlab and ylab in R? #tidyverse #rstats https://t.co/RzfciiYtTw","935569091678691328","1243966146526744577",2020-03-28 18:20:15,1
+"Adding legend manually to R/ggplot2 plot without interfering with the plot #tidyverse #rstats https://t.co/wt0ZiqI3gm","935569091678691328","1243779916065366017",2020-03-28 06:00:14,1
+"Resolving \"discrete value supplied to continuous scale\" error when attempting to edit binary logistic regression plot using ggplot2 #tidyverse #rstats https://t.co/DLAq0nIeK9","935569091678691328","1244002628289335298",2020-03-28 20:45:13,1
+"geom_tile plotting longer tiles &amp; not square tiles #tidyverse #rstats https://t.co/DiLyMEg2WB","935569091678691328","1243899475812286464",2020-03-28 13:55:20,2
+"Create column of ascending values based on unique values in another column in R with new data added in batches #tidyverse #rstats https://t.co/37Ku3vVGzk","935569091678691328","1243963627650023426",2020-03-28 18:10:15,2
+"Change From plot to ggplot #tidyverse #rstats https://t.co/vdoNpyEVRj","935569091678691328","1243922114324955136",2020-03-28 15:25:17,1
+"How to interchange primary and secondary axis in wxmaxima 2d plot #tidyverse #rstats https://t.co/XXBctyncTd","935569091678691328","1243766134781992964",2020-03-28 05:05:29,1
+"R: How to draw a function where x axis is in date format, ggplot #tidyverse #rstats https://t.co/Hqf7bNvMmE","935569091678691328","1243808855768944640",2020-03-28 07:55:14,2
+"Florida School Grades - 2020 Shiny Contest Submission #tidyverse #rstats https://t.co/m2Vhljvgzz","935569091678691328","1243903227436949505",2020-03-28 14:10:14,1
+"Delete rows based on previos rows #tidyverse #rstats https://t.co/eiCC2suR5S","935569091678691328","1243961111260680192",2020-03-28 18:00:15,1
+"Aligning image with multi panel ggplot2 #tidyverse #rstats https://t.co/h7lul2wCwh","935569091678691328","1243714552723902464",2020-03-28 01:40:31,1
+"Run model on each group in dataframe and output key metrics into new dataframe #tidyverse #rstats https://t.co/m5h0uGH8V9","935569091678691328","1244011441470013441",2020-03-28 21:20:14,1
+"Teaching style - slides, live coding, both? #tidyverse #rstats https://t.co/ton3nzsSCX","935569091678691328","1243826472713945089",2020-03-28 09:05:14,1
+"Scraping a wikipedia table with Rvest (error) #tidyverse #rstats https://t.co/D2Ers7fB8q","935569091678691328","1243763553355603968",2020-03-28 04:55:13,2
+"Proper way to fill more than one geom_area #tidyverse #rstats https://t.co/eU1d9e6UxA","935569091678691328","1243935942437732354",2020-03-28 16:20:14,1
+"polaroid - 2020 Shiny Contest Submission #tidyverse #rstats https://t.co/RbkFKr8GOc","935569091678691328","1243806344064401408",2020-03-28 07:45:15,2
+"Catching error in code before ui section #tidyverse #rstats https://t.co/TyBCM1euT0","935569091678691328","1243961111864578048",2020-03-28 18:00:15,1
+"Creating a Categorical Variable from a quantitative one #tidyverse #rstats https://t.co/hJItSvDkkR","935569091678691328","1243978742449483779",2020-03-28 19:10:18,1
+"How to redefine a list with 1 entry? #tidyverse #rstats https://t.co/3SpLLKh5ua","935569091678691328","1243903228812681218",2020-03-28 14:10:15,1
+"Is there a way to specify certain geom_images to be placed on top in a dense scatterplot? #tidyverse #rstats https://t.co/WPnzJNplcg","935569091678691328","1243776139006484480",2020-03-28 05:45:14,1
+"Put ggplot output into 2 rows #tidyverse #rstats https://t.co/VsfB7jqXBD","935569091678691328","1243967410656477186",2020-03-28 18:25:17,1
+"\"Package had non-zero exit status\" problem #tidyverse #rstats https://t.co/8D4jMZNRyO","935569091678691328","1243939718838001664",2020-03-28 16:35:14,1
+"Aligning image with multi panel ggplot2 #tidyverse #rstats https://t.co/JXwGmzmSwl","935569091678691328","1243710708417802248",2020-03-28 01:25:14,1
+"Different output between sum and + #tidyverse #rstats https://t.co/td6XxxiaE1","935569091678691328","1243966147667558400",2020-03-28 18:20:16,1
+"Need help Creating a New Variable #tidyverse #rstats https://t.co/GaEizDwGus","935569091678691328","1243903228183564288",2020-03-28 14:10:14,1
+"Plotting mean monthly temperature in ggplot with confidence intervals #tidyverse #rstats https://t.co/Pjd0LCtSmB","935569091678691328","1243985023201685504",2020-03-28 19:35:16,1
+"😵 It's getting worse 🤣 
+Anybody else have a horrible #rstats #rstudio template? https://t.co/Wg8kVCsk1T","898040958037753856","1244048313596379137",2020-03-28 23:46:45,1
+"When you #bork your #rstats #Rstudio editor theme 🤠 https://t.co/BbdnXm4WeC","898040958037753856","1244046455272353810",2020-03-28 23:39:22,1
+"Download county-level data for coronavirus cases in the United States from The New York Times
+#rstats #python #darascience #geospatial 
+https://t.co/6032Im8rFe","898040958037753856","1243697359017648128",2020-03-28 00:32:11,1
+"Si quieres entender y analizar la pandemia de #COVID19, nada mejor que hacerlo tú mismo en R. Aquí algunas cosas que he hecho estos días.
+https://t.co/LM1giQQMMb
+#satRdays #rstats","23345806","1244045662494343168",2020-03-28 23:36:13,2
+"Why I prefer stringr::str_to_lower() than #rstats base tolower():
+
+&gt; tolower(counties_poly$NAME)
+Error in tolower(counties_poly$NAME) : 
+  invalid input 'Bayamón' in 'utf8towcs'
+
+str_to_lower() takes care of encoding for you 🙏🤩
+
+Totally worth the extra 5 characters!","2345532612","1244044736673067010",2020-03-28 23:32:33,1
+"I improved US state-level covid19 charts to allow alignment on any number of any series. Data pulled directly from covid tracking api. #rstats #rshiny https://t.co/g0FDGgZaAB","22679203","1244044227778097154",2020-03-28 23:30:31,1
+"Had a difficult time finding a simple COVID dashboard for state-level data visualization so I made one. There was a large increase in testing in Ohio on 3/26. #rstats #rshiny https://t.co/g0FDGgZaAB","22679203","1243723055085629440",2020-03-28 02:14:18,4
+"Hello @AcademicChatter and #rstats folks. Does anyone have recommendations for publicly available datasets that I can try to analyze for fun?","1235045703505891329","1244043950601711616",2020-03-28 23:29:25,3
+"I AM A WAR-TIME STATISTICIAN !!
+
+#epitwitter #medtwitter #rstats #AI #DataScience #Covid_19 #Statistics #EconTwitter #economy #Python #Computing #mathchat https://t.co/QiPyMYFeK2","1189948210430611458","1244039725838630916",2020-03-28 23:12:38,6
+"I'm holding a free vtree zoom workshop tomorrow at 2:30pm Eastern Time. https://t.co/qFNozERgRl Join me and I'll answer questions and demonstrate the latest features! #RStats https://t.co/q1Xd98y0dZ","19275545","1244036963683971077",2020-03-28 23:01:39,1
+"I finally discovered how to highlight functions within the script !!!!! I can die peacefully. 
+
+Tools -&gt; Global Options -&gt; Code -&gt; Display -&gt; Highlight R function calls 
+
+PS: I don't know why @rstudio  doesn't make it by default. 
+
+#rstats #r4ds @R4DScommunity https://t.co/XYDBIoyF7n","1203079969108365312","1244035604104560642",2020-03-28 22:56:15,1
+"Did someone know that theses two dplyr statements give the same result
+
+#rstats https://t.co/oZkF47zmjO","1203079969108365312","1244002637399425024",2020-03-28 20:45:15,2
+"Thanks @kellrstats &amp; @plzbeemyfriend for organizing #satrdays_DC!
+
+For those who missed it, my talk on grading #rstats code with interactive documents can be found here: https://t.co/4mR8NOQgiI","44126316","1244035275275284487",2020-03-28 22:54:57,5
+".@revodavid talks about the 20-year history of #rstats for #satrdays_DC and I am nothing but humbled by the shoulders we all stand on.
+
+https://t.co/ALpvWqUEIu","44126316","1244007669108801538",2020-03-28 21:05:15,1
+"Get 15 Software Development Books for $15. #BigData #Analytics #DataScience #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Programming #Coding #100DaysofCode 
+https://t.co/KLuTs2rbJa https://t.co/whbRh3w9Vt","4263007693","1244015672834883589",2020-03-28 21:37:03,83
+"Crater-Detection Algorithm with Commercial Satellite Imagery to Find Unexploded Bombs in Cambodian Land. #IoT #PyTorch #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode #Algorithms 
+https://t.co/O66dL06iqn https://t.co/ebj9vDLckf","4263007693","1243704813877157888",2020-03-28 01:01:49,40
+"Anomaly Detection in Identifying Unseen Web Attacks. #BigData #Analytics #DataScience #AI #MachineLearning #CyberSecurity #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode 
+https://t.co/0UUHXyslLM https://t.co/ACbbfksEfk","4263007693","1244008923918675968",2020-03-28 21:10:14,61
+"A Content-Based ( #XSS, #Malware) Intrusion Detection System. #BigData #Analytics #DataScience #AI #MachineLearning #CyberSecurity #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless  #Linux #Programming #Coding #100DaysofCode
+https://t.co/A1xRgpeLMI https://t.co/i9ka7oxSlo","4263007693","1243767433921548288",2020-03-28 05:10:38,65
+"Fraud Detection with #MachineLearning. #BigData #Analytics #DataScience #AI  #CyberSecurity #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode
+https://t.co/2pCrKt3eU3 https://t.co/Ejct2nX2Sa","4263007693","1244029026747977730",2020-03-28 22:30:07,40
+"Gnarly (Spelled /ˈnärlē/) Fungus Habitats Could Be a Thing on the Moon &amp; Mars. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #Linux #Programming #Coding #100DaysofCode
+https://t.co/aVPEZYLUIW https://t.co/QPRvkwi0Dp","4263007693","1243998810319335425",2020-03-28 20:30:03,29
+"A Gateway to Building a CRUD Application Using #ReactJS and #Django. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #JavaScript #GoLang #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode 
+https://t.co/qxBqLTQeWh https://t.co/x8BnOwB0in","4263007693","1243743371354607616",2020-03-28 03:35:02,79
+"A Collection of #Jupyter Notebooks w/ Interactive #Python Code. #BigData #Analytics #DataScience #IoT #IIoT #RStats #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Statistics #Programming #Coding #100DaysofCode 
+https://t.co/jo4aMH98EP https://t.co/MmM6FdBpt8","4263007693","1243712148477317120",2020-03-28 01:30:57,56
+"Tutorials on Implementing #PyTorch Seq2Seq. #BigData #Analytics #DataScience #AI #MachineLearning #DeepLearning #NLProc #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode
+https://t.co/QhpOP9EYJq https://t.co/rfjNoTH2QP","4263007693","1244023220392558593",2020-03-28 22:07:03,38
+"Companion Github to the Book \" #Mathematics For #MachineLearning.\" #BigData #Analytics #DataScience #AI #IoT #IIoT #Python #RStats #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Programming #Coding #100DaysofCode 
+https://t.co/MQStFivIpm https://t.co/0Pu6ZDYsKa","4263007693","1243714940252413953",2020-03-28 01:42:03,67
+"Object Detection and Face Recognition #Algorithms. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode
+https://t.co/TRej62qM35 https://t.co/DhI3q6TqOS","4263007693","1243708941642563584",2020-03-28 01:18:13,56
+"#Mathematics of Higher Dimensions: Euclidean Distance for 4+ Dimensions. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #Linux #Programming #Coding #100DaysOfCode 
+https://t.co/YPTSf9wSJR https://t.co/HIIbdPf0Ej","4263007693","1243934686705049600",2020-03-28 16:15:15,57
+"How to Combine All CSV Files into One Data Frame with R? #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode 
+https://t.co/BnzgRUYMGd https://t.co/xCeOi0oTOP","4263007693","1244022464134418434",2020-03-28 22:04:02,36
+"A Massive Repository of #COVID19 Datasets. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #PyTorch #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode #HealthTech 
+https://t.co/UBg4nMI0Kg https://t.co/rMYAhFIXos","4263007693","1244027296362778625",2020-03-28 22:23:15,89
+"9 Free eBooks To Learn #DataScience In 2020. #BigData #Analytics #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Books #Linux #Programming #Coding #100DaysofCode
+https://t.co/bAY4tzTlO0 https://t.co/B4mY6SpyIA","4263007693","1243749914745737216",2020-03-28 04:01:02,193
+"#MachineLearning and Galenical Cure for #Covid19. #BigData #Analytics #DataScience #AI #IoT #IIoT #PyTorch #Python #RStats #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode #HealthTech 
+https://t.co/M0I60XBRiY https://t.co/YZsiTmFqfL","4263007693","1243746701447442432",2020-03-28 03:48:15,65
+"Generative Teaching Networks: Synthetic Training Data. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode
+https://t.co/YOWcZ9J9oa https://t.co/qNP6Y6beZH","4263007693","1243932672856076289",2020-03-28 16:07:15,33
+"Free #CyberSecurity and Hacking eBooks. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #PyTorch #Python #RStats #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Programming #Coding #100DaysofCode  
+https://t.co/RJpXp2jO2q https://t.co/ZSYiwPo0oG","4263007693","1244025242156220416",2020-03-28 22:15:05,61
+"Fascinating New Results in the Theory of Randomness. #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS  #CloudComputing #Serverless #DataScientist #Linux #Statistics #Programming #Coding #100DaysofCode 
+https://t.co/1L6ehop5s7 https://t.co/zaovihO1gB","4263007693","1243935643790704640",2020-03-28 16:19:03,54
+"COVID-Net: Detection of #COVID19 Cases from Chest Radiography Images. #MachineLearning #DeepLearning #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode #HealthTech 
+https://t.co/gnPav4xob9 https://t.co/tGDbZGpRas","4263007693","1243689519683158016",2020-03-28 00:01:02,177
+"The 9 Concepts and Formulas in Probability. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Statistics #Programming #Coding #100DaysofCode
+https://t.co/u7SbtBIvhE https://t.co/pyMrzp4J0d","4263007693","1243710911371673605",2020-03-28 01:26:02,40
+"Semantic Segmentation for Self-Driving Cars. #BigData #Analytics #DataScience #AI #MachineLearning #DeepLearning #IoT #IIoT #Python #RStats #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode 
+https://t.co/rsi6EkyMfP https://t.co/AukjDGrV6t","4263007693","1243931117679493120",2020-03-28 16:01:04,30
+"Coronavirus: The Hammer and the Dance. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #PyTorch #Python #RStats #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode #HealthTech 
+https://t.co/htX6Om7PJp https://t.co/aEOYXyy3dj","4263007693","1243751509680103429",2020-03-28 04:07:22,89
+"Google Design Chips with AI That will Accelerate AI. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode
+https://t.co/XRQLd8ic5X https://t.co/AByIrfctT7","4263007693","1243698137673412618",2020-03-28 00:35:17,55
+"Anomaly Detection Using #Tensorflow. #BigData #Analytics #DataScience #AI #MachineLearning #CyberSecurity #IoT #IIoT #PyTorch #Python #RStats #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode 
+https://t.co/DNlqQWl7i8 https://t.co/1qgbvvsPG4","4263007693","1244013029374730244",2020-03-28 21:26:33,32
+"24 Neural Network Adjustments. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode 
+https://t.co/gu9d5D9DVj https://t.co/Gh55DzoFaw","4263007693","1243765015284416512",2020-03-28 05:01:02,77
+"Ontologies and Semantic Annotation. Part 2. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Statistics #Programming #Coding #100DaysofCode 
+https://t.co/H34zl2TYz1 https://t.co/6bKu7eXigb","4263007693","1244021708530618368",2020-03-28 22:01:02,37
+"How #ApacheDruid Enables #Analytics at Airbnb. #BigData #Hadoop #ApacheSpark #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode
+https://t.co/dxwDBGgHjd https://t.co/umNzwXsxF8","4263007693","1243695319654764548",2020-03-28 00:24:05,58
+"#DataScience in #ApacheSpark with #Sparklyr. #BigData #Analytics #AI #MachineLearning #DeepLearning #IoT #IIoT #PyTorch #Python #RStats #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode
+https://t.co/29Lig5236D https://t.co/azl1IflcaW","4263007693","1244033727589646339",2020-03-28 22:48:48,38
+"An Introduction to #Python #Programming - Interactive #Jupyter Notebooks. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #RStats #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Coding #100DaysofCode 
+https://t.co/yME9lYgww1 https://t.co/ZqTqqTi9Xx","4263007693","1243927069928706050",2020-03-28 15:44:59,52
+"Matrix Multiplication in Neural Networks. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode
+https://t.co/wGtg2aKIwu https://t.co/fvYKe7dwM6","4263007693","1244030010526240769",2020-03-28 22:34:02,66
+"#DeepLearning Analog Chips for #InMemoryComputing. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #PyTorch #Python #RStats #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode
+https://t.co/Iw0M5toubf https://t.co/Lja4R00ZSN","4263007693","1243757067694940161",2020-03-28 04:29:27,70
+"A 9 Page Data Science Cheat Sheet. #BigData #Analytics #DataScience #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Statistics #Programming #Coding #100DaysOfCode 
+https://t.co/qbjlda5ILR https://t.co/qgaGraUBdv","4263007693","1244025984564822016",2020-03-28 22:18:02,86
+"The 11 Best Cyber Security Books. #BigData #Analytics #DataScience #CyberSecurity #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode 
+https://t.co/wsQRMvaUIc https://t.co/FpbaqmX0MZ","4263007693","1244032031144775681",2020-03-28 22:42:03,44
+"Lognormal, Weibull, and Gamma Distribution in One Picture. #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Statistics #Programming #Coding #100DaysofCode
+https://t.co/NBEBycGPk0 https://t.co/HeOFhpqoIV","4263007693","1243696825791582213",2020-03-28 00:30:04,31
+"Deep CNN Model for #COVID19 Forecasting in China. #BigData #Analytics #DataScience #AI #MachineLearning #DeepLearning #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #Linux #Programming #Coding #100DaysofCode #HealthTech 
+https://t.co/TaJFHO6PVL https://t.co/d2lhUdA7mU","4263007693","1244006612077084672",2020-03-28 21:01:03,44
+"Cyber Security Cheat Sheets. #BigData #Analytics #DataScience #CyberSecurity  #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode
+https://t.co/87JZSy5tre https://t.co/8J4wbI0mLt","4263007693","1243770589006921728",2020-03-28 05:23:11,110
+"A Visual Intuition For Regularization in #DeepLearning. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode 
+https://t.co/dm4ov8xdvI https://t.co/UkbLODFWAL","4263007693","1243704617793466368",2020-03-28 01:01:02,43
+"Cuarentena día 9: Trabajando con Hugo. #purr #rstats https://t.co/EJc30vhBWO","126447743","1244033679044816896",2020-03-28 22:48:36,1
+"#coronavirus cases announced in the U.S.
+#RStats #COVID19 #CoronavirusUSA 
+
+Data from:
+https://t.co/GYwCPDNkS0 https://t.co/ipwCT1gVEZ","54297059","1244033034346803202",2020-03-28 22:46:03,1
+"Brewing up half a pot of tea.
+
+(this is going to be a cool animation)
+
+#rstats #rayrender https://t.co/GQWmn89VuS","273781698","1244017940124631040",2020-03-28 21:46:04,2
+"@baptiste_auguie Here's just the tea, no teapot #rayrender #rstats https://t.co/cKV2FXcKe4","273781698","1244028813434118145",2020-03-28 22:29:16,1
+"Situación del COVID19 en Samborondón al 28.03.2020 actualizado a las 11h15
+#COVID2019  #coronavirus
+#COVID19 #QuédateEnCasa #Samborondón  #Rstats https://t.co/MPLVOCCmi9","27955535","1244028222901293056",2020-03-28 22:26:55,1
+"Situación del COVID19 en Ecuador al 28.03.2020 actualizado a las 17h15
+#COVID2019  #coronavirus
+#COVID19 #QuédateEnCasa #Ecuador #Rstats https://t.co/7bVfb3epZX","27955535","1244027798978732032",2020-03-28 22:25:14,3
+"Pruebas realizadas y escala logarítmica.
+
+Ecuador CFR 2.615%
+
+#COVID2019  #coronavirus
+#COVID19 #QuédateEnCasa #Ecuador #Rstats https://t.co/T9o3880EXK","27955535","1244028607980281858",2020-03-28 22:28:27,1
+"Situación del COVID19 en Ecuador al 28.03.2020 actualizado a las 11h15
+#COVID2019  #coronavirus
+#COVID19 #QuédateEnCasa #Ecuador #Rstats https://t.co/kegU5HaHxI","27955535","1243935318878887937",2020-03-28 16:17:45,1
+"Pruebas realizadas y escala logarítmica.
+
+Ecuador CFR 2.63%
+
+#COVID2019  #coronavirus
+#COVID19 #QuédateEnCasa #Ecuador #Rstats https://t.co/IvKpLypkvB","27955535","1243935578011336704",2020-03-28 16:18:47,1
+"Situación del COVID19 en Samborondón al 28.03.2020 actualizado a las 11h15
+#COVID2019  #coronavirus
+#COVID19 #QuédateEnCasa #Samborondón  #Rstats https://t.co/QhnkvIUjKt","27955535","1243935813135749122",2020-03-28 16:19:43,1
+"📝 \"to transform or not to transform • aleatoric\"
+
+👤 alex hayes @alexpghayes
+
+➡ (how to) compare models fit to transformed data with models fit to the original, untransformed data
+
+https://t.co/v7rd3Rohey
+#rstats https://t.co/P065QOAfQ1","1203623631856779264","1243864936582873092",2020-03-28 11:38:05,2
+"📝📈🤖 \"Time Series Machine Learning (and Feature Engineering) in R\"
+
+👤 Matt Dancho @bizscienc
+
+https://t.co/x9Qc3bD5fX
+#rstats https://t.co/Smai5kpNn4","1203623631856779264","1243974230708019201",2020-03-28 18:52:23,3
+"📝 \"Dynamic R Markdown Document Generation • heddlr\"
+
+👤 Mike Mahoney @MikeMahoney218
+
+https://t.co/AfwfXEZbF1
+#rstats https://t.co/aibyA1CLVS","1203623631856779264","1243701864878784512",2020-03-28 00:50:06,2
+"📝 \"Word Rank Slope Charts\"
+
+👤 Emil Hvitfeldt @emil_hvitfeldt
+
+https://t.co/e7zyZSVagN
+#rstats https://t.co/ndLbRPnExR","1203623631856779264","1243919452841877504",2020-03-28 15:14:43,2
+"📝📈 \"Facilitates PhenoCam Data Access and Time Series Post-Processing • phenocamr\"
+
+👤 Koen Hufkens, PhD @koen_hufkens
+
+https://t.co/RLK0FZwbv9
+#rstats https://t.co/u81tBdWt9c","1203623631856779264","1244028521527345159",2020-03-28 22:28:07,2
+"📦⏱ \"speedyseq • Speedy versions of phyloseq functions\"
+
+👤 Mike McLaren @mikemc423
+
+https://t.co/RBSl84LCaY
+#rstats","1203623631856779264","1243810647915274240",2020-03-28 08:02:22,1
+"📦 \"nakedpipe • Pipe Into a Sequence of Calls Without Repeating the Pipe Symbol.\"
+
+👤 Antoine Fabri @antoine_fabri
+
+https://t.co/kuN9hzF8vl
+#rstats https://t.co/nDOmEN83PP","1203623631856779264","1243756220965675009",2020-03-28 04:26:05,4
+"I learnt SIR modelling in #systemdynamics using @Vensim. Didn’t practice it personally but know a few who modeled SARS, Ebola, H1N1, and #COVID19. Jim Duggan’s book on System Dynamics with #rstats covers the topic in detail, including social distancing. https://t.co/cF3TwimOTq https://t.co/NYjU2Mczcf","752974124","1244028268719886336",2020-03-28 22:27:06,1
+"Using quarantine to level up on my #shiny &amp; #blogdown skills, I'm taking a crack at a solutions manual for @hadleywickham's Mastering Shiny! If anyone wants to take a look or contribute I'd love to collaborate! #rstats https://t.co/H7EA57vEdq https://t.co/pmp5MYjLI2","369165118","1244027477493608449",2020-03-28 22:23:58,26
+"These Lessons Learned from @CNeskey are so real 💯 #rstats #satRdays_dc https://t.co/jLgOq07Y1D","1064310027798933504","1243965820331528192",2020-03-28 18:18:57,3
+"One of us is very interested in @Satrdays_DC - pop quiz: how many ducks are in this photo? #satRdays #rstats https://t.co/ZxuzMIVhCU","1064310027798933504","1243913880201543681",2020-03-28 14:52:34,2
+"In this talk, Tiger Tang gives a very reasonable and actionable framework for completing a project to automate reporting in your organization with R. Concise yet comprehensive, great job! #satRdays_DC #rstats https://t.co/H0tTm9fV6s","1064310027798933504","1244025996040458240",2020-03-28 22:18:04,4
+"Want to demonstrate different kernel weighting in regression discontinuity analysis? Here's how to make some neat plots with #rstats and ggplot (code: https://t.co/j6XHdyiYJZ) https://t.co/a0Lr8eIJXt","16741059","1244025192583749633",2020-03-28 22:14:53,13
+"Animated loess: like Line Rider, but with statistics #rstats https://t.co/KjdKQqBJQH","16741059","1243705880127983618",2020-03-28 01:06:03,5
+"Tonight I made this cool animation with #Covid_19  data and #RStats . It shows the progress of deaths and cases of infection during this month in #Germany #France #Italy #UnitedKingdom and #Spain. Pretty scary! 
+
+#10minutechallenge #plotly #100DaysOfCode #coronavirus https://t.co/RbTaTCNW07","873836335","1244024000453447682",2020-03-28 22:10:09,16
+"New CRAN package cppcor with initial version 1.1 https://t.co/0QdYpl5sce #rstats","233585808","1243870974413586432",2020-03-28 12:02:04,1
+"New CRAN package r2dii.match with initial version 0.0.1 https://t.co/0QdYpl5sce #rstats","233585808","1243931389394923521",2020-03-28 16:02:09,1
+"CRAN updates: paws.common https://t.co/y5W2NTKSXT #rstats","233585808","1244021985874771971",2020-03-28 22:02:08,1
+"CRAN updates: moveVis pensim phenesse https://t.co/y5W2NTKSXT #rstats","233585808","1243765322995372033",2020-03-28 05:02:15,1
+"CRAN updates: GerminaR https://t.co/y5W2NTKSXT #rstats","233585808","1243871003316498432",2020-03-28 12:02:11,1
+"New CRAN package mxmmod with initial version 1.0.1 https://t.co/0QdYpl5sce #rstats","233585808","1243916295483072514",2020-03-28 15:02:10,2
+"CRAN updates: cricketr ggpol roptim WorldFlora xyloplot https://t.co/y5W2NTKSXT #rstats","233585808","1243916343189082112",2020-03-28 15:02:21,2
+"New CRAN package tidyMicro with initial version 1.43 https://t.co/0QdYpl5sce #rstats","233585808","1243916322418896896",2020-03-28 15:02:16,1
+"CRAN updates: ceterisParibus gasfluxes https://t.co/y5W2NTKSXT #rstats","233585808","1243750202810478592",2020-03-28 04:02:10,1
+"CRAN updates: GridOnClusters MPTmultiverse https://t.co/y5W2NTKSXT #rstats","233585808","1243720012856164357",2020-03-28 02:02:12,1
+"CRAN updates: PTXQC https://t.co/y5W2NTKSXT #rstats","233585808","1243991790396596225",2020-03-28 20:02:09,1
+"New CRAN package MajKMeans with initial version 0.1.0 https://t.co/0QdYpl5sce #rstats","233585808","1243916287866212353",2020-03-28 15:02:08,1
+"CRAN updates: autoimage callr heatmaply hot.deck nFactors performance RBesT RProtoBuf spatsoc wrapr https://t.co/y5W2NTKSXT #rstats","233585808","1243780478919991297",2020-03-28 06:02:29,2
+"CRAN removals: cRegulome https://t.co/t6KpMVXnWp #rstats","233585808","1243780373127090177",2020-03-28 06:02:03,1
+"New CRAN package rotations with initial version 1.6 https://t.co/0QdYpl5sce #rstats","233585808","1243931397288529920",2020-03-28 16:02:10,1
+"New CRAN package mustashe with initial version 0.1.1 https://t.co/0QdYpl5sce #rstats","233585808","1243886094694957056",2020-03-28 13:02:09,1
+"New CRAN package extraterrestrial with initial version 0.1.0 https://t.co/0QdYpl5sce #rstats","233585808","1243870982340780032",2020-03-28 12:02:06,1
+"CRAN updates: chilemapas tidytable https://t.co/y5W2NTKSXT #rstats","233585808","1244006894131458048",2020-03-28 21:02:10,1
+"New CRAN package SSP with initial version 1.0.1 https://t.co/0QdYpl5sce #rstats","233585808","1243916314097463298",2020-03-28 15:02:14,2
+"CRAN updates: DAMisc DTSg https://t.co/y5W2NTKSXT #rstats","233585808","1243704910497153026",2020-03-28 01:02:12,1
+"New CRAN package MoBPS with initial version 1.4.87 https://t.co/0QdYpl5sce #rstats","233585808","1243931379102035968",2020-03-28 16:02:06,1
+"CRAN updates: mdatools https://t.co/y5W2NTKSXT #rstats","233585808","1243976687718731776",2020-03-28 19:02:08,1
+"CRAN updates: georob isocat https://t.co/y5W2NTKSXT #rstats","233585808","1243946505091919873",2020-03-28 17:02:12,1
+"New CRAN package sybilSBML with initial version 3.1.2 https://t.co/0QdYpl5sce #rstats","233585808","1243931421477089280",2020-03-28 16:02:16,1
+"CRAN updates: gghalves rematch2 https://t.co/y5W2NTKSXT #rstats","233585808","1243886111451201538",2020-03-28 13:02:13,1
+"CRAN updates: afex calcWOI dst EHRtemporalVariability idiogramFISH LibOPF msae multDM openblender PoissonBinomial RestRserve https://t.co/y5W2NTKSXT #rstats","233585808","1243825793677037569",2020-03-28 09:02:33,1
+"CRAN updates: BeviMed kofdata https://t.co/y5W2NTKSXT #rstats","233585808","1243901196462669826",2020-03-28 14:02:10,1
+"New CRAN package generalKSStat with initial version 1.0.3 https://t.co/0QdYpl5sce #rstats","233585808","1243886078429466631",2020-03-28 13:02:06,1
+"CRAN updates: subniche https://t.co/y5W2NTKSXT #rstats","233585808","1243931428368322560",2020-03-28 16:02:18,1
+"CRAN updates: aibd neo2R scorecard https://t.co/y5W2NTKSXT #rstats","233585808","1243795508830842884",2020-03-28 07:02:12,1
+"CRAN updates: infoDecompuTE sn https://t.co/y5W2NTKSXT #rstats","233585808","1243840801748258816",2020-03-28 10:02:11,1
+"I've launched my COVID-19 app.
+
+https://t.co/9LqLJJK0gC
+
+You can track the progression of confirmed cases, deaths, daily percentage changes, and death rates for every US state and territory. Data can be viewed on the map or in table form on the side bar. #rshiny #rstats #rspatial https://t.co/pnzUMSIn3X","2866643973","1244019537080545280",2020-03-28 21:52:25,7
+"A data viz exercise mapping the spread of the coronavirus in the U.S. Thanks to The @NYTimes for making the data public. #RStats https://t.co/uEN1GBaVKR","358225959","1244018407055298561",2020-03-28 21:47:55,3
+"📉 hice estos gráficos (interactivos) del #covid19 en #Argentina a partir de una tabla que compartió @jorgeluisaliaga en la que compiló los datos del @msalnacion 
+🔗https://t.co/N4AGOOpLFK 
+*intentaré actualizarlo lo más seguido posible. #RStats","102170021","1244016294699114498",2020-03-28 21:39:32,1
+"#5G worms its way into the conspiracy theories on social media #rstats #wordcloud https://t.co/y2LAZ2Ld5C","1050334352037634049","1244014137627344896",2020-03-28 21:30:57,1
+"Thank you @Satrdays_DC for having me today! Really enjoyed this conference as a speaker and an attendee! Here are my slides on \"Saving 1,000 hours with R\". #satrdays_DC #rstats  https://t.co/MyoZhZ9EZi","959939552667320320","1244012529627652097",2020-03-28 21:24:34,3
+"in between looking after a 5 year old and chatting with your friends... I like to knit #covid19 #Serbia #data using #rstats
+There's more to come... 👩‍💻📊📈
+https://t.co/RxNKIqjKf8
+#DataScience","21197393","1244012298697662464",2020-03-28 21:23:39,4
+"Natural language processing #NLP is progressing quickly. We are looking into how we can use these new techniques to analyse EU politics. #python #rstats https://t.co/eMd3vOV4m5","1023576262651142144","1244011961018396673",2020-03-28 21:22:18,1
+"#YoMeQuedoEnCasa #stayAtHome
+Sábado de \"Probabilidad Discreta con R\" en @edXOnline con el prof. @rafalab 
+#rstats #RStudio #R #edX #probability https://t.co/dksUw9bqFj","108650826","1244010899473608705",2020-03-28 21:18:05,1
+"Data Science Nation is out! https://t.co/kLJaPWdZon Stories via @rstats4ds #datascience #rstats","9616512","1244006428844666883",2020-03-28 21:00:19,2
+"Where are people tweeting about #lockdown? This is from one grab of Twitter data today. I'll leave my laptop collecting tweets over night and see what I find tomorrow. #rstats #dataviz https://t.co/yr5Ti0OTCW","3936381555","1244005647336771584",2020-03-28 20:57:13,2
+"Qué casualidad. Justo ahora, después de una semana de #datos #math #rstats #datascience estaba disfrutando de las rimas de Bécquer! https://t.co/xoE5FgfNWM https://t.co/JJ9QOfgEAx","898142425","1244005427874054145",2020-03-28 20:56:21,1
+"Been wanting to teach myself R for a long time.  Took a small Coursera online which was fine, but I finally found a little project that lines up with my interests to work on so this apparently is how I'll be spending my quarrantine #RStats https://t.co/lHhYWK5zGK","77053679","1244004771574341643",2020-03-28 20:53:44,1
+"Learn about the history of #rstats by @revodavid at #satrdays_dc right now here 🥳🤩
+  https://t.co/hs8W4aMvDd","1534579099","1244003925721780227",2020-03-28 20:50:23,1
+"#satrdays_dc  #RStats #DataScience   
+Daniel Chen -\"Grading Code With gradethis\" - SatRdays  -live!","1158581468718874631","1243996545529372672",2020-03-28 20:21:03,4
+"#satrdays_dc  #RStats #DataScience   
+Alex
+Gold   -Dear Shiny, It’s Time to Break Up   -live!","1158581468718874631","1243940591546834944",2020-03-28 16:38:42,3
+"#satrdays_dc  #RStats #DataScience   
+Nolan
+Phillips-  Constructing, Visualizing and Analyzing Networks Using the SNA Package - SatRdays  -live!","1158581468718874631","1243981014504017920",2020-03-28 19:19:20,6
+"#satrdays_dc  #RStats #DataScience   
+Gonçalo Veiga - \"Sentiment Analysis in R: Which Lexicon Should I Use for My Data?\" - SatRdays  -live!","1158581468718874631","1243997603366346752",2020-03-28 20:25:15,3
+"#RStats","1158581468718874631","1243887879069327361",2020-03-28 13:09:15,1
+"#satrdays_dc  #RStats #DataScience   
+SatRdays   -live!","1158581468718874631","1243955404792639488",2020-03-28 17:37:34,4
+"#satrdays_dc  #RStats #DataScience   Tiger
+Tang-  \"Saving 1000 Hours With R\"  -live!","1158581468718874631","1243930651864322049",2020-03-28 15:59:13,3
+"#satrdays_dc  #RStats #DataScience   
+Wendy Wong - \"Learning More from Direct-to-Consumer Personal Genome Data\" - SatRdays  -live!","1158581468718874631","1243986538368831490",2020-03-28 19:41:17,2
+"#satrdays_dc  #RStats #DataScience   
+Lee
+De Cola Using R to Visualize Global Data  -live!","1158581468718874631","1243959811261313025",2020-03-28 17:55:05,3
+"#satrdays_dc  #RStats #DataScience   
+BREAKOUTS   -live!","1158581468718874631","1243945887098974208",2020-03-28 16:59:45,3
+"#satrdays_dc  #RStats #DataScience   
+David Smith - \"20 Years of R\" - SatRdays  -live!","1158581468718874631","1244002506386083842",2020-03-28 20:44:44,3
+"#satrdays_dc  #RStats #DataScience   
+Samantha Tyner -
+ Shiny in the Government: a Brief Summary   -live!","1158581468718874631","1243935892101836800",2020-03-28 16:20:02,6
+"Highcharts for R users!  
+https://t.co/O6CEOsHAQw
+
+If you love doing data science with R and creating interactive data visualizations, this post is for you. #rstats https://t.co/BSbTb2rH41","594421145","1244001399731630081",2020-03-28 20:40:20,3
+"@bolkerb @TheFerrariLab @BjornstadOttar Poking @rgfitzjohn the mastermind behind #rstats odin. Re stochasticity I think usual random distributions (binom / poisson / multinomial) are already implemented.","1408449174","1243998794359939072",2020-03-28 20:29:59,1
+"My new animated map shows registered deaths from COVID-19 by US county.
+
+#Covid_19 #Covid19usa #usaCoronavirus #maps #rstats #dataviz https://t.co/aks7tNHaIG","2905330823","1243996608242556929",2020-03-28 20:21:18,4
+"head() and tail() used on functions #rstats https://t.co/f5P52Ikx9P","714595085405409280","1243995089891987456",2020-03-28 20:15:16,5
+"{utils} never seems to disappoint -- always something new #rstats https://t.co/DScDJ3YO46","714595085405409280","1243996389253746691",2020-03-28 20:20:26,2
+"Cool👏bigrquery+dplyr usage for a personal genomics analysis talk by @wendyWongSW #rstats #satrdays_DC https://t.co/d4aQt3UO3e","722471022704922624","1243990895742955522",2020-03-28 19:58:36,4
+"The always entertaining and delightful @chendaniely is now giving a learnr/gradethis talk for #satrdays_DC ✨✏️ https://t.co/66vD53vTdU #rstats","722471022704922624","1243992593299431426",2020-03-28 20:05:21,2
+"👀Cool timeline of tweet freq for some of my favorite #rstats friends @thomas_mock @dataandme and @CMastication - props to Tom for all that #rstudioconf tweeting 😁🌟 https://t.co/saFSVnq6Hz","722471022704922624","1243905294045855750",2020-03-28 14:18:27,4
+"@Satrdays_DC 📣Right Now! Jessica Duncan is talking about how to get started in R 🐕🌟 It's a learning process forever #satRdays #rstats https://t.co/ofmO43SzjC","722471022704922624","1243892815370678272",2020-03-28 13:28:52,2
+"This slide from @tigerloveslobs1 #satRdays_dc talk just made my day🎉 It's an empathetic communication plan for socializing #rstats project goals! #devops in the wild!🛠️👏 https://t.co/kOL3nLnMg0","722471022704922624","1243938130526273536",2020-03-28 16:28:56,3
+"Join us today for @Satrdays_DC fully remote on Zoom! https://t.co/PewFvmbLep Thank you to @plzbeemyfriend for organizing and hosting. #rstats #dctech https://t.co/OBWM10MRKn","722471022704922624","1243897945134522368",2020-03-28 13:49:15,12
+"📣Right Now @aghpol is wrapping up a talk on #rstats and Linking Survey Data with Social Media 📚 learn more here: https://t.co/c5ttNJMPXk","722471022704922624","1243900880492965889",2020-03-28 14:00:55,2
+"Next up on the @Satrdays_DC stream - Survival Analysis for Everyone! @phillynerd from @spring_health🌻 https://t.co/ZLjKI6qZrc #rstats #satRdays_dc","722471022704922624","1243966725961338884",2020-03-28 18:22:33,3
+"In 20 minutes I'll be delivering a talk on Sentiment Analysis to the #satrdays_DC crowd. I'm so excited! It's now a virtual conference and free to attend. Please feel free to watch: https://t.co/RsRBStqniz #RStats","66087953","1243992573804515329",2020-03-28 20:05:16,2
+"PubMed hits for various social media platforms. #RStats https://t.co/xk9NQYJMJZ","3436767789","1243989905136476160",2020-03-28 19:54:40,1
+"#TidyTuesday Week 13 - TBI 🧠
+
+This week, I was inspired by @nsgrantham's #tidytuesday entry to learn how to stylize a plot. I had no idea CSS could be incorporated so easily into ggplot2!
+
+Code: https://t.co/inN0cE9YG2
+
+#rstats #dataviz #r4ds https://t.co/V6VBWb4AQj","941497915851370496","1243989687397748737",2020-03-28 19:53:48,2
+"Expirementing with ggdark and facet grids for this week's look at tramautic brain injury data. #rstats #tidytuesday https://t.co/YXhgbgTdu3 https://t.co/K0hJS184Ja","187900448","1243988015304912896",2020-03-28 19:47:09,1
+"Hey #AcademicTwitter! 
+Do you work with species assemblages?
+Do you use #rstats?
+Do you wonder if your species' taxonomy is up to date?
+Have you heard of {taxadb}?
+No... 
+Then I have great news for you - I wrote a demo to help you get started...
+https://t.co/H2AkLFlcbZ","924112741","1243987523795390464",2020-03-28 19:45:12,2
+"I'm excited to announce that the 'mustashe' package is up on #CRAN!📦 It is a simple system for stashing and loading the results of long running computations. It tracks the code and dependencies to regenerate the object is they change. #rlang #rstats 
+https://t.co/mSUneE9dzR","1062557747680550912","1243985314613321729",2020-03-28 19:36:25,0
+"Is there any way to update the label of a downloadButton() from the server side in shiny? @jcheng @winston_chang @grrrck #rstats","19240333","1243980728611885056",2020-03-28 19:18:12,2
+"#rstats #timeseries #forecasting https://t.co/xsgsqe3lk8","703571724667908097","1243977878456406019",2020-03-28 19:06:52,1
+"Te invitamos a que visites nuestra primera aplicación de shiny donde podrás encontrar información correspondiente al COVID-19.
+Link: https://t.co/PuLqQm3plt
+#RStats #rstudio #leaflet #Covid19Colombia
+Autores: 
+@MaryJaneRivero7 
+@PortoMerlano 
+@vasquezisabel71 https://t.co/uf4s1nB0Hq","1162836337256517632","1243977776497078272",2020-03-28 19:06:28,2
+"Hola, amigos en día de hoy tenemos el placer de presentarles nuestra primera app en Shiny donde se muestra información correspondiente al COVID-19.
+Link: https://t.co/PuLqQm3plt
+#RStats #rstudio
+#shiny #leaflet #Covid_19
+
+ Autores: @vasquezisabel71 @PortoMerlano @MaryJaneRivero7 https://t.co/DrdJM96Utq","1162836337256517632","1243976719494778882",2020-03-28 19:02:16,5
+"#rdata #rstats: Sleep in mammals - https://t.co/SJI4FF4gQ4","867857724670857217","1243977003264626689",2020-03-28 19:03:24,1
+"Non sarà una cosa breve e non #andratuttobene.  Il picco è stato registrato circa il 24 marzo. Rispettiamo al meglio le regole imposte per arrivare il prima possibile alla parte stazionaria della curva nera.
+#covid19italy #iorestoacasa #rstats 
+code -&gt; https://t.co/rE6q23le0F https://t.co/s67WRW9zeX","1024585904629972992","1243975030666678272",2020-03-28 18:55:33,1
+"Introducing pewmethods: An #rstats package for working with survey data by Arnold Lau https://t.co/4MZRX1QvBz","589535421","1243974002780942336",2020-03-28 18:51:28,1
+"Preparing a new post where i'm going to detail how to fit a xG model using #rstats and the public event dataset of @Wyscout https://t.co/VewcSEgUOd","863953652029034496","1243973664741249025",2020-03-28 18:50:08,5
+"It's not to late to join @Satrdays_DC for our afternoon sessions on all things #rstats. We're halfway through the talks and on a lunch break until 1:40 (eastern). But there's 9 more talks starting soon!
+https://t.co/QqnSn0mKSM","404107193","1243947102616662017",2020-03-28 17:04:35,2
+"Thank you @Satrdays_DC for having me speak about #rstats #rtweet today.
+Presentation is up at: https://t.co/7vmw10ciLo
+You can find more in the GitHub page: https://t.co/y9emPkbFe4 https://t.co/8BsrlMMjWf","404107193","1243915177210318848",2020-03-28 14:57:43,1
+"Special call out to those who inspired me in this talk and in #rstats generally:
+@RLadiesGlobal, @RLadiesDC, #rladies, @kearneymw, @LittleMissData, @AnnaHenschel, @dataandme, @thomas_mock, @CMastication","404107193","1243909960758509568",2020-03-28 14:37:00,1
+"In the spirit of my talk and in the interest of #rstats upset plots, I created an upset plot of the @Satrdays_DC speakers (with public profiles). Fair warning, this takes over 30 mins to complete due to API limits. https://t.co/CxcqL0weaP","404107193","1243973562454720513",2020-03-28 18:49:43,5
+"When do people get exposed to Corona? Based on the Israeli MOH epidemiological debriefing of infected patients. Not surprisingly, if you need to go shopping do it really early in the morning...  #rstats https://t.co/BWkfg9LPjZ","2563361521","1243972432186298368",2020-03-28 18:45:14,3
+"air travel is down a bit... 
+
+March 27, 2019:  2,538,384 
+March 27, 2020:  199,644 
+
+https://t.co/HQRA146PnC
+#dataviz #rstats https://t.co/YEeeyjvRec","19669254","1243972224098410497",2020-03-28 18:44:24,8
+"A key step in #DataVisualization is ensuring graphs are readable by those who are #colorblind: https://t.co/jXXsYkMn69
+
+Here's #rstats ggplot code for a colorblind friendly palette I made: scale_color_manual(values=c(\"#AEC427\", \"#47A4E3\", \"#D84A48\", \"#741344\")) 
+
+#AcademicChatter https://t.co/q7qoSTbQ8H","1062060976835485696","1243972065008353283",2020-03-28 18:43:46,4
+"Finally they have arrived!! Next #rstats conference I'll give some  hexstickers from BioCor. Thanks @stickermule https://t.co/2br0egf3MV","1051050384","1243832986476445696",2020-03-28 09:31:07,2
+"On a more personal note today it's my 15 day at home. Alone. I've only left once last week to buy groceries. 
+
+Still deciding where to focus my energies. Currently on some #rstats projects, learning C++, and recently decided to fight #COVID19  contributing to @WikiPathways","1051050384","1243971575650680833",2020-03-28 18:41:50,1
+"Newest addition to the classInt package - the “Head/tail breaks” style by Diego Hernangomez - read more about it at https://t.co/xMNHhisj9G. #rstats #rspatial https://t.co/4vhcZwfya3","2810559039","1243969252186611713",2020-03-28 18:32:36,5
+"llega ese momento que te preguntas: y cuantas dependencias tengo? cuales son? aca esta un paquete que puede ayudar:
+
+attachment #rstats revisa los archivos de tu paquete y agrega todas las dependencias al DESCRIPTION .
+
+🤩🥳 https://t.co/zqAFrNF7N7","573760145","1243967676617293825",2020-03-28 18:26:20,3
+"Happening now! Tune in on the zoom link: https://t.co/Ah2m7buJtG
+#RStats #DataScience #AnalyzeData https://t.co/dApVcjXCFN","1180115887464030209","1243893989843099648",2020-03-28 13:33:32,3
+"Presenting now: @phillynerd Jessica Streeter on #SurvivalAnalysis.  Key point: She has the best #handle.    #rstats #Survival #KaplanMeierCurves #CoxProportionalHazard #epitwitter https://t.co/t3MsLBz4J9","1180115887464030209","1243966787894611969",2020-03-28 18:22:48,2
+"NEW VIDEO OUT: I help you get park effects and help you create a function to see how hitters fare in various park environments. I also talk about BAcon...wOBAcon.
+#rstats #baseballinr
+Video: https://t.co/U4xqjUc9ir","553178890","1243966665848741888",2020-03-28 18:22:19,1
+"Part 1: “A Beginner’s Guide to Creating a Corona “Dashboard”” by @J_Schroeder91 #rstudio #rstats #COVID19
+https://t.co/THZPVYsJNm  Part 2 about the actual #shiny dashboard coming soon!","1020212525894373376","1243966033817481217",2020-03-28 18:19:48,2
+"The complex immune-system
+-still IDing parts of it not previously known to exist
+* new virus-fighters *
+_News: https://t.co/Od30dLjYKw #serverless #rstats #bigdata #snrtg #technology #iot #scicomm
+_Journal:  https://t.co/MKGCpLjxzM #immunology #PrimaryImmunodeficiency #genomics https://t.co/2yi0X3YrfK","79975924","1243963290625204224",2020-03-28 18:08:54,20
+"There's always a #rstats package for your use case apparently. Even if it's rolling dice for an online game session with friends: https://t.co/h6FtZ9LPrS","14490432","1243963151613186048",2020-03-28 18:08:21,1
+"#rstats tip of the day:
+
+put `TZ=UTC` in your `~/.Renviron` and escape timezone hell","15155867","1243962813976109056",2020-03-28 18:07:01,3
+"Learn #DataScience in 8 Steps | #BigData #Analytics #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode via @gp_pulipaka | https://t.co/0h0MNeXfCc https://t.co/kezQ3vQCG3","554757120","1243900713215889408",2020-03-28 14:00:15,19
+"Google Internet Institute Explain AI Basics with the ‘A-Z of #AI.’ | #BigData #Analytics #DataScience #MachineLearning #IoT #IIoT #Python #RStats #JavaScript #ReactJS #Serverless #DataScientist #Linux #Programming #Coding #100DaysOfCode via @gp_pulipaka | 
+https://t.co/GRDafPBan0 https://t.co/DSmfxlFnJk","554757120","1243961157356081153",2020-03-28 18:00:26,16
+"Point pattern analysis of location data in @TDataScience  #DataScience #MachineLearning #Geospatial #rstats #AI 
+https://t.co/5yhHqhsC5H","871201608834613248","1243960095731601409",2020-03-28 17:56:13,3
+"Estou tuitando no Workshop de Web Scraping I da @curso_r, usando o pacote rtweet do #rstats","4452814037","1243959233848258560",2020-03-28 17:52:47,1
+"Estou tuitando no Workshop de Web Scraping I da @curso_r, usando o pacote rtweet do #rstats","283155685","1243958859162681344",2020-03-28 17:51:18,1
+"Anyone else using an #rstats script to reconcile travel refunds that come in some unexplained combination of cash, loyalty points, and future trip credits #QuarantineWeekend","2622871","1243958825402556416",2020-03-28 17:51:10,1
+"I hate dgCMatrix #RStats","1066815760054591488","1243957847421001728",2020-03-28 17:47:17,1
+"#LGTM = Looks Good To Me
+
+How we write/review code in big tech companies
+https://t.co/6oBKIZRlvl
+
+#codingisfun #RStats #Python #github","56086595","1243956570263707649",2020-03-28 17:42:12,2
+"Third post about #philosophy and #textmining exploring with #RStats on #Nietzsche's works https://t.co/04Jmq6BmVO #TopicModels package  https://t.co/Wk4HTeajO5. Many similitudes with the #ComputationalTurn proposed by @berrydm https://t.co/ZUUjxgx44r https://t.co/EW06SFoseg","311640613","1243956320568565760",2020-03-28 17:41:13,3
+"#rstats #programming #CoronaLockdown #COVID19 https://t.co/ZDziTQSbFA","928564856","1243955993081532416",2020-03-28 17:39:54,1
+"Hi @tangming2005, thank you for writing a blog for making Rstudio server for HPC (https://t.co/5FpQuygzEz). For our HPC, we do login node--&gt;computing node. Do you know a way to make your method works for that?  #rsudio #rstats #HPC","758376559","1243953524452601857",2020-03-28 17:30:06,1
+"Really appreciate having a leader who is using data and modeling to inform decisions and set goals. Thanks @GovofCO! And shout-out to whomever at @CUMedicalSchool is leveraging #RStats to help in these critical decisions! https://t.co/qHLTqjPJHc https://t.co/EAsCKLqDmo","37455211","1243951519377969154",2020-03-28 17:22:08,1
+"Dear Saturday #rstats #shiny enthusiasts... anyone aware of a single shiny widget that you can use to split up a whole into parts? e.g. How do you spend your time over the weekend... options are (R, sleeping, TV) &amp; you have to split them up into portions that add up to 100%","15433622","1243950027275411456",2020-03-28 17:16:12,2
+"Now including map https://t.co/57lbF0qnIj #rstats #rshiny","2784613812","1243947738187943940",2020-03-28 17:07:06,1
+"Can any of my #rstats peeps help? https://t.co/hsuOcWs2HM","221488354","1243947693694746626",2020-03-28 17:06:56,1
+"#RStats I'm trying to solve a problem if anyone can help 
+I'm using EqualtestsMI package and attempting multigroup equivalence testing.  I've screenshot my code. The model it is call up runs fine. But I get to this step with EqMI.main and it gives me this error. https://t.co/ygyMFNOEK2","756908935315984384","1243946012063846401",2020-03-28 17:00:15,1
+"Do you remember when you joined Twitter? I do! #MyTwitterAnniversary really enjoying the #RStats and #datafam community https://t.co/wxIflVwSH0","978924734296535040","1243945313422934018",2020-03-28 16:57:28,1
+"From #satRdays_DC #RStats https://t.co/dWreVWo9CJ","52612249","1243894159645294592",2020-03-28 13:34:12,8
+"@sctyner giving insights into R Shiny use within government agencies at #satRdays_dc #rstats","52612249","1243940183449505794",2020-03-28 16:37:05,3
+"140+ participants at #satRdays_DC! Free at https://t.co/cWp4Ojmpjq until 5:00pm EST today! #RStats #satRdays #r4ds","52612249","1243892711922577409",2020-03-28 13:28:27,1
+"R-ladeis algiers organisera son deuxième meet-up( le premier enligne ) le lundi 30 mars 2020 de 14h via ZOOM. 
+Si vous souhaitez participer à notre meet-up remplissez le formulaire suivant:  
+https://t.co/KqiEyboT7P #R #RStats @RLadiesAlgiers
+ @RLadiesGlobal
+ #stay_home_and_learn","1207703582784577539","1243940150775873536",2020-03-28 16:36:57,1
+"My new draft uses @mcmc_stan modeling of #COVID19 cases/tests to rank identify virus suppression policies. Analysis of timing of U.S. state of emergency declarations shows states declaring earlier reduced overall infection rates. (1/4) #rstats #epitwitter https://t.co/jRW04a2TSD https://t.co/MR4mgQy7YE","4149978441","1243939282735247364",2020-03-28 16:33:30,3
+"#COVID19 #CoronaVirusAt #RStats Code for analysis of Austrian infection data here. https://t.co/T2owrCWhZm","4814961623","1243938902932676608",2020-03-28 16:32:00,1
+"Grid Search and Bayesian Hyperparameter Optimization using {tune} and {caret} packages https://t.co/pAEh2gwnip #rstats via @datascienceplus","1243843467656212480","1243938777007087618",2020-03-28 16:31:30,1
+"I know I’m one week late but working on The Office (US TV show) was quite fun as I’m in lockdown. Great to try the #tidytext package to explore dialogues. #sentimentanalysis #rstats #dataviz #r4ds #TidyTuesday #FactoMineR #PCA https://t.co/CvDu01Res2","486452863","1243935629882331138",2020-03-28 16:19:00,6
+"https://t.co/2jVGLcy0uK
+ICLOUD BYPASS REMOVAL iOS 13.4
+#javascript #PSDtoHTML #DataScience #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Statistics #programming https://t.co/9tchBmtcoK","2873620902","1243767055175712768",2020-03-28 05:09:08,8
+"Bypass iCloud Influencersearn LEGIT! Make Money Online  https://t.co/tp8gICgBEG
+#javascript #PSDtoHTML #DataScience #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Statistics #programming https://t.co/2872nJ3njx","2873620902","1243912655598837761",2020-03-28 14:47:42,14
+"Bypass iCloud Activation Free - Make Money Online 
+https://t.co/gNQYDYE0aj
+#BigData #Analytics #DataScience #AI #MachineLearning  #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode https://t.co/WUUasIEh8Y","2873620902","1243932763490635777",2020-03-28 16:07:36,19
+"Slides from today's @Satrdays_DC talk about Iterating Branded State and Local Fact Sheets and Fact Pages @urbaninstitute: https://t.co/IDBv8rPnEd #rstats","28912860","1243932723858808832",2020-03-28 16:07:27,8
+"https://t.co/JctNBppteT
+ICLOUD BYPASS REMOVAL iOS 13.4
+#javascript #PSDtoHTML #DataScience #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Statistics #programming https://t.co/aHAgam1vjc","3179515740","1243771361597644800",2020-03-28 05:26:15,8
+"Bypass iCloud Influencersearn LEGIT! Make Money Online  https://t.co/5MAvLw2V7g
+#javascript #PSDtoHTML #DataScience #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Statistics #programming https://t.co/Tajy5HxQ1G","3179515740","1243912508420706305",2020-03-28 14:47:07,11
+"Bypass iCloud Activation Free - Make Money Online 
+https://t.co/jm2P9eJRzi
+#BigData #Analytics #DataScience #AI #MachineLearning  #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode https://t.co/NgD8kC4oGw","3179515740","1243932544485044224",2020-03-28 16:06:44,20
+"@cristianquirozd Thanks! I just discovered while searching 2DGCMS tools, this RMet which is #RStats based and great GUI (see @github link in their Abstract) https://t.co/dhBrmxnMAp and very similar with both GCMS and 2DGCMS functionalities. But I faced some bugs/ issues ! Hope you do better! ; )","751885664283602944","1243931123404566528",2020-03-28 16:01:05,1
+"Hi #RStats and #AcademicTwitter: Looks as if the U.S., given how much it is affected by #COVID19, is an outlier, both in public attention (assessed by Google Trends) and in governmental social distancing measures (data: @JHUSystems, @ACAPSproject) Github Repo with R code below.","46721140","1243929378540728323",2020-03-28 15:54:09,3
+"America first.
+I'm very curious to see the evolution in Sweden.
+Inspired by @jburnmurdoch  and @kjhealy 
+#rstats https://t.co/YaypxJbVfq","16101121","1243928624149016577",2020-03-28 15:51:09,1
+"Tuning in to the @Satrdays_DC online conference today. Impressed by @emilyhmarkowitz's progress moving NOAA's fisheries economic monitoring program towards more transparent and reproducible reporting! #rstats #satRdays_DC #satRdays","486165849","1243928044957503489",2020-03-28 15:48:51,3
+"The next R4DS Office Hours begin at Mar 28, 2020 11:00AM CDT! Have an #rstats question you've been meaning to ask? Head over to our slack via https://t.co/XpQXP5Iano, and we'll try to get you an answer! See the calendar for upcoming office hours: https://t.co/rb7kh5s6pS","983470194982088704","1243927266683486211",2020-03-28 15:45:46,1
+"clean your data at the outset, #RStats, @R4DScommunity https://t.co/p61Q8MTDLy","75345274","1243926123169206272",2020-03-28 15:41:13,1
+"Datos de los reportes de @msalnacion y codigo fuente #rstats en https://t.co/tndKq8pE8R
+NOTA: los casos de incidencia de transmisión comunitaria fueron informados erróneamente el dia 27/03 o en días anteriores por lo cual serian -59,  asumí 0.","150278011","1243925204344193027",2020-03-28 15:37:34,1
+"UPDATED: Covid-19 deaths per capita 
+
+#China #Italy #Spain #France #Netherlands #US #UK #Swedeng #rstats #ggplot #imagemagick #ffmpeg data from JHU CSSE https://t.co/fljpnELQnl","23816314","1243924291965669383",2020-03-28 15:33:56,2
+"UPDATED:  Covid-19 confirmed infections per capita 
+
+#COVID19 #COVID2019  #Finland #Sweden #Germany #UK #US #Italy #Australia #China #rstats #ggplot #imagemagick #ffmpeg data from JHU CSSE https://t.co/LJGw5fdMGz","23816314","1243912008644337665",2020-03-28 14:45:08,3
+"Scaling the #COVID19 cases/deaths by population - highlights how bad it is in Italy and Spain compared to other countries #rstats https://t.co/iIxF3O6XfG","712578432656359424","1243921875488706561",2020-03-28 15:24:20,3
+"At 4:40PM ET today, join me online at the link below for a talk about the history of R #rstats for #satRdays_DC https://t.co/q7C4cL1X17 https://t.co/hvx6dZIFjq","34677653","1243919672837169154",2020-03-28 15:15:35,12
+"The Pew Research Center @pewresearch has released the R package they use to analyze survey data https://t.co/VBBlbmnHue #rstats #satrdays_dc","34677653","1243897404945879040",2020-03-28 13:47:06,39
+"Some really good stuff from @Satrdays_DC. e.g. I've learned about the Duck Curve from @DataDrivenAngel #rstats https://t.co/fxEhSCNEqq","11537782","1243917938010324992",2020-03-28 15:08:41,2
+"Learning about the Duck Curve from home at #satRdays_dc #rstats #satRdays https://t.co/sbdUgbu8P8","166936889","1243916967356096513",2020-03-28 15:04:50,3
+"Hilfe erstellen für Funktionen in eigenen R-Paketen #roxygen2 #rstats https://t.co/JP6O3bnu0b https://t.co/SaKeD4iGzC","595286659","1243916564409303042",2020-03-28 15:03:14,1
+"I am teaching introductory data analysis in #rstats.  It is content that some students really want, so I cannot just “punt” – that would be a betrayal.  I also understand that some students may be in *real* crisis.","2604104648","1243915407175671808",2020-03-28 14:58:38,1
+"Beginner looking for help with handling missing data imputation in #rstats. Made a post at: https://t.co/y72QS02Fvq","157482791","1243913887885463552",2020-03-28 14:52:36,3
+"Growth rate of total COVID-19 cases in the last 15 days in Italy. #rstats #ggplot2 #gganimate https://t.co/wpxz703Aka","440382565","1243911750266826753",2020-03-28 14:44:06,4
+"#rstats question: why doesn't the origin argument of https://t.co/9tpeonImYZ() default to 1970-01-01, like lubridate::as_date?  The docs give an explanation of potential origin pitfalls, but sensible defaults would be appreciated.","188411659","1243911570037579776",2020-03-28 14:43:23,1
+"New: a couple examples on how to get Census self-response rate data from the API in #rstats: https://t.co/t11RTgHWfy","2841558748","1243911421559267331",2020-03-28 14:42:48,1
+"Saturday morning bump. If you’re an #rstats user, please help me make up my mind. https://t.co/S5srM6qboW","2200612749","1243910991894794241",2020-03-28 14:41:05,1
+"Questtion to the #RStats community: Anyone any idea why this isn't working? https://t.co/345duYXrFr I set up everything like on my local machine. I'm using dygraphs but they just don't show up. Checked everything I can think of twice. #dygraphs #rstats","14786915","1243910597613322241",2020-03-28 14:39:31,1
+"#DataScience — #TextMining : lemmatisation et racinisation avec #RStats https://t.co/bnez6CSYQe via @databzh","367258029","1243908902976094208",2020-03-28 14:32:47,1
+"A look at whether the UK’s #COVID19 outbreak will be similar to those in Italy &amp; other countries, by the BBC’s head of stats @robertcuffe &amp; charts by me https://t.co/k9eLDK7to7 #coronavirus #RStats #pandemic","20168274","1243902266463211521",2020-03-28 14:06:25,7
+"It's a year since I started my blog🎈and because I know how to party, I've posted about my favourite #rstudio shortcuts! Please, PLEASE try to contain your excitement at this time. 
+
+https://t.co/mhRLRJ73Yb
+
+#rstats","445827586","1243901723225346050",2020-03-28 14:04:16,4
+"From the details of important #AlgoTrading regulations to info about IBKR's API, quant traders of all kinds will fall in love with the expert insights on #IBKRQuant blog. Check it out! 
+
+https://t.co/jOduAqvybd
+
+#Python #rstats #DataScience #Dataviz #Econometrics https://t.co/cstuwKXzPW","986654594833973248","1243900657121349632",2020-03-28 14:00:01,3
+"Looking to get started with #rstats? Jessica Duncan nailed it, just 👩‍💻👨‍💻!! #satrdays_DC #satRdays https://t.co/ydqoi5wQyV","1148456420918157313","1243898165507563522",2020-03-28 13:50:07,3
+"@awunderground @GrahamIMac @Satrdays_DC @urbaninstitute I'm curious to learn more about how you publish RMD files at Urban Institute. Do you knit from R Studio to the Urban Institute's website or use iframes? I'm working creating a similar workflow @USSC, so I thought I'd ask as your team is killing it in the #rstats think tank space.","564109829","1243894664651931648",2020-03-28 13:36:13,2
+"I'll send you Twitter's trending topics every hour! Share with your friends! #rstats #bot #telegram https://t.co/EYkLSpr7je","103638498","1243893184960311296",2020-03-28 13:30:20,1
+"Posted by kjytay, now on R-bloggers: A deep dive into glmnet: predict.glmnet #rstats https://t.co/RCGB7NsmCh","18238982","1243892356614684673",2020-03-28 13:27:02,2
+"Posted by R/exams, now on R-bloggers: E-Learning Quizzes with R/exams for Moodle and OpenOLAT #rstats https://t.co/1QkydXspll","18238982","1243802803514073090",2020-03-28 07:31:11,1
+"Posted by xi'an, now on R-bloggers: Le Monde puzzle [#1133] #rstats https://t.co/cxXM8yfFCf","18238982","1243848148587610112",2020-03-28 10:31:22,1
+"This is for the #RStats #DataScience folks who have got time to spend this Saturday. Starting time should be 12:30 GMT/ 13:30 CET #SatRday https://t.co/9S5Jr8qtBl","18238982","1243863361034608641",2020-03-28 11:31:49,3
+"Posted by Abderrahim Lyoubi-Idrissi, now on R-bloggers: Grid Search and Bayesian Hyperparameter Optimization using {tune} and {caret} packages #rstats https://t.co/mZx1LlAzRV","18238982","1243749959561773057",2020-03-28 04:01:12,1
+"RProtoBuf 0.4.17 on CRAN:  Robustified
+An R interface to Google Protocol Buffers data serialization
+https://t.co/f3w7rlaAca
+#rstats #rcpp https://t.co/JjYj0qI4XJ","2385131","1243891972441624577",2020-03-28 13:25:31,2
+"Mappe dei casi in provincia di Verona, aggiornate al 27 marzo. #COVID2019italia #COVID19italia #Covid19 #Covid_19 #dataviz #rstats #ggplot2 #COVID2019 https://t.co/cjdF1BAoqE","908470184","1243891536271675392",2020-03-28 13:23:47,3
+"Help needed: Any recommendation of a good guide on how to parallelize Monte Carlo simulations in R? #EconTwitter #RStats","18762126","1243890119955886080",2020-03-28 13:18:09,1
+"No more select_if(is.*, fun) in #rstats https://t.co/PV0NFrwF8g","1058327346619371520","1243887393033179138",2020-03-28 13:07:19,1
+"🤫💌 #IPL2020 or #IPL2021 #IPL13👽💞s #Cricket🏏#forecast📈#IPLT20 #MI 1st #match 🛣️🚧49,83&amp;113 #Hurdles 144&amp;157🔥Wall 161to177* if *Cleared👽💐awaits #mumbaiindians at191 #India #BCCI #ICC #BBC #AI #BigData #DataViz #ML #VR #rstats #lka #SL #Code #Analytics #StaySafeStayHome😷🌈","1386338574","1243886843122216960",2020-03-28 13:05:08,1
+"GRASS GIS desde R. Crear una base de datos de GRASS GIS desde R mediante paquete rgrass7, con su localización (region) y conjunto de mapas (mapset) #rstats #rspatial https://t.co/1MBln7ZDh8","548399962","1243886401801912321",2020-03-28 13:03:23,3
+"Estudios de caso. 1) Sistemas de terrazas del Pleistoceno, río Ocoa. 2) Fotografías aéreas históricas con @OpenDroneMap para estudios de terrazas. 3) Piratería kárstica (captura), arroyo Parra, morfometría con @GRASSGIS #rstats
+https://t.co/qAW6ZjQQgm","548399962","1243886398421250048",2020-03-28 13:03:22,1
+"Estudio de caso. Río Mana, Villa Altagracia. Aplicaciones la fotogrametría digital con @OpenDroneMap, @qgis, @GRASSGIS, #ImageJ, #rstats para estudios de granulometría de fracción gruesa en llanura de inundación https://t.co/Kvs1uKGegs","548399962","1243886399587303424",2020-03-28 13:03:22,1
+"Asignatura Geomorfología, Lic. en Geografía, UASD. Durante esta semana, grabé en español ~5 horas repartidas en 12 vídeos sobre procesos fluviales y morfometría usando @GRASSGIS, R y más software de código abierto #rstats. Hilo. Playlist https://t.co/rMP6vnpJO3","548399962","1243886396059922433",2020-03-28 13:03:21,2
+"A COVID Small Multiple: https://t.co/me9L8xzDJG
+#COVID19 #CoronaUpdate #coronavirus #Covid_19 #coding #programming #rstats #DataScience #BigData #DataViz #R","2522523884","1243885803157237762",2020-03-28 13:01:00,14
+"Updated my graph with VSL #rstats #dkøko #dkpol #tidyverse https://t.co/4GfLF2ZzS3","23580362","1243884223108395008",2020-03-28 12:54:43,2
+"Great video for anyone who covers experimental design in their courses @RaineeKaz @burhanco2 @jessfstep @Exp_EvoEco @corlettwwood @MTLeeLab #ecology #rstats https://t.co/1iNPV6nh6W","897445854822510592","1243881054865408001",2020-03-28 12:42:08,2
+"Hey #rstats #datascientists! Our conference is in 30 minutes, but if you want to join early, you can go to our separate breakout rooms:
+
+R-Ladies:        https://t.co/86IVYYQUu5
+Global:            https://t.co/9OqexHY8GH
+Careers:          https://t.co/F9ax1ERpyx","1062139971593818112","1243879119210926080",2020-03-28 12:34:26,5
+"Hey #RStats #DataScience folks! Today's the big day! Tune into our Zoom Webinar (https://t.co/OeWQB4Opws) from 8:30am to 5:00pm EST to watch our speakers at DC satRdays!","1062139971593818112","1243775375970308096",2020-03-28 05:42:12,35
+"I just became a NumFOCUS Member! Join me and show your support for the open source projects we love. @NumFOCUS #pydata #opensource #python #rstats #openscience #datascience https://t.co/CikCFg8Js2","751421204716806144","1243878400189779970",2020-03-28 12:31:35,1
+"A quick shout-out to the @satRdayNeuCH who blazed a trail with remote conferencing, and helped the DC team immensely. #rstats https://t.co/a70kCjgvE3","1291259790","1243876204739989506",2020-03-28 12:22:51,1
+"Yet another #COVID19 dashboard - made in #RStats #shiny (naturally). It has some of the new stats I find useful (confirmed % of population, recovery rate etc.), country comparison curves, and an embedded #PublicHealthEngland dashboard all in one place. https://t.co/KWJr3w5OQb","23786930","1243875685216772098",2020-03-28 12:20:48,2
+"@winston_chang Almost 40% of #rstats user know you directly or rest of them know you indirectly. You calculate the number. You actually are famous and for all the good reasons.may god Bless you health","190179815","1243873310942924802",2020-03-28 12:11:22,1
+"@Natty_V2 un nouveau débat pour de futures #rstats conférences ? https://t.co/H7f3DQv9tC","722186131891187712","1243872786298417153",2020-03-28 12:09:16,1
+"Took the team dashboard and mangled it to use the NYTimes dataset and whipped up a 54 state/territory view as a lightweight SVG file (giant png preview attached). 
+
+https://t.co/WSpVLs2rXK to view (updated daily)
+
+https://t.co/6lt2OcEPJR for the #rstats code that generates it https://t.co/LsuJ6OlYmZ","5685812","1243872482551050242",2020-03-28 12:08:04,4
+"Very nice work elaborated by @gsposito #rstats #dataviz 
+https://t.co/yRK53XuAht","498106555","1243868921591103488",2020-03-28 11:53:55,1
+"Fixed Ra1nUSB Error iCloudBypassCA Up Date iCloud Bypass iOS 13.4 https://t.co/MsFspboyBe #rstats","136404418","1243868354030510083",2020-03-28 11:51:40,1
+"Aplicación #shiny que permite la predicción a 3 días (utilizando datos del día anterior) de #COVID19. Se basa en un modelo predictivo de datos funcionales desarrollado por los miembros del grupo #MODESTYA
+
+https://t.co/ZDFjoHw2Gk
+
+#rstats","2438273784","1243866751437242368",2020-03-28 11:45:18,12
+"Let me tell you best 5 Reasons why #Go @golang is vastly implemented in DevOps. 
+
+⛓️ https://t.co/rz9rxrfk7r🤟
+
+#GoLang #DevOps #Developer #Programming #AWS #CloudComputing #BigData #DataScience #AI #MachineLearning #Python #RStats #JavaScript #ReactJS #GoLang #Serverless #Linux https://t.co/1CY1gqlUWG","3267955411","1243863752526557185",2020-03-28 11:33:23,36
+"5 Reasons You Need To #Go Golang for DevOps 
+
+@golang is a priority language for DevOps due its cloudy nature.
+
+#DevOps #Developer #Programming #AWS #CloudComputing #BigData #DataScience #AI #MachineLearning #Python #RStats #JavaScript #ReactJS #GoLang #Serverless #Linux #golang https://t.co/tVTlqfYPJX","3267955411","1243835495760551937",2020-03-28 09:41:06,22
+"@sbalogh_eco Lastly, there is a #chromebook #rstats that @jtleek and crew started a year or so ago.  Let me dig up the link... 3/x","68583134","1243863711275769858",2020-03-28 11:33:13,1
+"#rstats https://t.co/Q0LKpkeNHY","169920416","1243862829226029058",2020-03-28 11:29:42,3
+"TIL that last @rstudio version uses automatic spellcheck 🔤✅and underlines words in your Rmarkdown files and other #rstats codes if not in the dictionnary📘. Very useful for non-native english speakers or big fingers🖖  devs ! https://t.co/T2PJjRiJZp","895591511768813569","1243862107826696192",2020-03-28 11:26:51,4
+"Good stuff! 👍
+#rstats
+#tidyverse https://t.co/zH3RelzWsF","249274132","1243855708182937600",2020-03-28 11:01:25,2
+"#BigData #Analytics #machinelearning #DataScience #AI #IoT #Python #RStats #TensorFlow #defstar5 #JavaScript #ReactJS #VueJS #GoLang #python #innomatics #innomaticshyd #makeyourownlane #CloudComputing #Serverless #Linux #neuralnetworks #machinelearning https://t.co/l3vXxUSQA4","1227843460889108482","1243844383213891584",2020-03-28 10:16:25,9
+"#BigData #Analytics #machinelearning #DataScience #AI #IoT #Python #RStats #TensorFlow #defstar5 #JavaScript #ReactJS #VueJS #GoLang #python #innomatics #innomaticshyd #makeyourownlane #CloudComputing #Serverless #Linux #neuralnetworks #machinelearning https://t.co/4W4i1UvKZR https://t.co/VNSNO2o175","1227843460889108482","1243855549449420800",2020-03-28 11:00:47,16
+"Our second not-so-@accidental__aRt  #rstats painting turned out great! Left is knn and right a generated city/labyrinth! Thanks to @marcus_volz for sharing his #ggart scripts! https://t.co/Y91IvSGjsG","3070187416","1243855454922575872",2020-03-28 11:00:24,5
+"An amazing chance to take part in an #rstats conference. 👌👌 https://t.co/Q5nJ9MFN26","1653264782","1243852095696052224",2020-03-28 10:47:03,2
+"ADV39 - Mettre la conclusion en évidence
+🤔 
+ Pour écouter -&gt; https://t.co/iYmmR83DQ0
+
+#dataviz #datavis #visualisationdedonnees #rstats https://t.co/ju6D67hfV0","1080886552702734338","1243848329450139655",2020-03-28 10:32:05,1
+"sbtools - Tools for interacting with U.S. Geological Survey ScienceBase &lt;https://t.co/faYi3FpSrc&gt; interfaces. ScienceBase is a data cataloging and collaborative data management platform. Functions included for querying... #rstats https://t.co/3zG4EkPrdh","1011438486073872385","1243848117885243392",2020-03-28 10:31:15,4
+"Avec @dodonatien, nous avons passé au scanner les derniers chiffres sur l’évolution de la pandémie du Covid-19 au niveau mondial pour @Mediapart. Le résultat de ce travail est à lire ici =&gt; https://t.co/bdGT3OVCJs. Voici comment nous avons travaillé. #Thread #RStats 📊 #ddj","562331866","1243844930054873088",2020-03-28 10:18:35,69
+"Voilà, la courbe de température des 10 premiers jours de confinement #confinementjour #NRC  #rstats #emotions  #plutchik https://t.co/GplmQjEdB2 https://t.co/SxbUpyHdK0","27122856","1243840773000507392",2020-03-28 10:02:04,4
+"@ddelruss @JamesMarsh79 Not exactly, check out the #rstats tag","1010542274428719108","1243836293488009216",2020-03-28 09:44:16,1
+"#rstats #ggplot2 https://t.co/4MpOelgoHB","466400265","1243835876435570688",2020-03-28 09:42:36,1
+"Want to teach #rstats online? https://t.co/okOFhjagAw","532115122","1243832888786812928",2020-03-28 09:30:44,3
+"Excited for these #rstats updates!  🍻  to relocate, a valuable addition not listed in the exec summary below. https://t.co/86G9Lf57N6","2321122829","1243832174660521984",2020-03-28 09:27:54,1
+"#Rstats function: colnames - returns or sets column names of object","2857565356","1243831490682773505",2020-03-28 09:25:11,1
+"Imho der beste Moment beim Coden ist, wenn man ein Konzept, mit dem sich Probleme sehr viel eleganter als zuvor lösen lassen, endlich verstanden hat, und man viele obsolet gewordene Codezeilen löschen kann. #rstats #tidyverse","396888209","1243828424252284935",2020-03-28 09:13:00,1
+"Ready... set... hang on. Doing one final round of checks for downstream packages of #rstats tibble, planning to submit to CRAN right after that. https://t.co/12saXWw99s https://t.co/ZiJ9aUAEld","3354999513","1243826890365952000",2020-03-28 09:06:54,4
+"@15nswells @richard_brackin @KerryleeRogers_ @JessErnakovich There must be an #RStats package to plot bars as scaled vector images...","931303289722773504","1243820034977226758",2020-03-28 08:39:40,1
+"Following on from yesterday’s #Homeschooling #dataviz, today we went digital with @gsuite on the old @Apple #macbookair 
+
+#rstats and #ggplot2 to follow when she’s mastered reading and writing a little better https://t.co/LFZqp9n6sQ","931303289722773504","1243761421357182981",2020-03-28 04:46:45,3
+"Sólo puedo dar seguimiento a las clases de #RStats que preparo hasta que mi niño ya descansa. El problema es que es tarde y que me tocará dormir en el cuarto de visitas para no despertar a la mamá y al nene 😅","367466339","1243815954095595521",2020-03-28 08:23:27,1
+"For #TidyTuesday  i'm graphing injuries that lead to brain trauma #braininjuryawarenessmonth. Cool colors 4 intentional, warm for unintentional injuries. Darkest shade 4 'unintentional falls', bucking trend and increasing contributor to brain trauma with age.
+
+#rstats #rstudio https://t.co/b5Sthp1Uvq","19448058","1243814692180520966",2020-03-28 08:18:26,1
+"New blog post: E-learning quizzes with R/exams for Moodle and OpenOLAT #rstats #rexams #elearning #distancelearning #moodle #openolat
+With some motivation, replication code, and links to the recent YouTube videos.
+
+https://t.co/rP9B7pjgqI https://t.co/CPr42ifEjc","870078805381132288","1243811737180278785",2020-03-28 08:06:41,19
+"Here’s a couple that have started some #ScienceFights IRL:
+
+emacs is better than vi #emacs #vim 
+
+R is the worst and unreliable because it’s free. #RStats https://t.co/09clc0dcmB","765152270380130304","1243810981102452736",2020-03-28 08:03:41,2
+"TwitterResearchProject: 
+
+Wordwide tweets about #DataScience #rstats (2019/2020)
+
+Geocoding with #QGIS
+
+See more:
+https://t.co/F0HUqz9Fup
+https://t.co/ROmTETe6D3 https://t.co/XMsJW3Swh3","338315801","1243809910296588288",2020-03-28 07:59:26,2
+"Cumartesi sabahına, @anacondainc ya R paketleri kurarak başladım
+#DataSciense #rstats #R_Ladies #COVID19tr","858001586613866496","1243808475035164672",2020-03-28 07:53:43,1
+"Has anyone using #RStats combined tinsel and Rpushbullet to make a decorator notifying you when a function has evaluated?","1652975983","1243805982351917057",2020-03-28 07:43:49,2
+"#Rstats #DataVisualization #DataViz #DataScience https://t.co/a6rZZCEr1N","836326849282260992","1243805352858173440",2020-03-28 07:41:19,1
+"#Rstats #DataScience #AI #MachineLearning https://t.co/hHBcOVGWPa","836326849282260992","1243805379739496448",2020-03-28 07:41:25,1
+"Look, i'm tweeting from Automated Tool in my #rstats #DigitalScience class! @abhikhandelwal","100932009","1243801359268208640",2020-03-28 07:25:27,0
+"The new #RGCxGC package 📦 version is coming 🎉🎊. We have created a new step-by-step tutorial to customize 2D chromatogram visualization. Examples of chromatograms acquired with TOF and Q mass analyzers.
+
+https://t.co/3GGXJRQAqi
+
+#GCxGC #RStats #metabolomics https://t.co/562uZKQkeN","2749957084","1243797614090469378",2020-03-28 07:10:34,1
+"How to do a t-test or ANOVA for more than one variable at once in R and communicate the results in a better way -https://t.co/szjURGJ0b6 #rstats https://t.co/tZBUqK3vnO","328439695","1243794972874289152",2020-03-28 07:00:04,4
+"#ArtificialInteligence #MachineLearning #Deeplearning
+
+via @ravikikan
+
+#BigData #Analytics #DataScience #AI #IoT #IIoT #Python #RStats #TensorFlow #Java #defstar5 #JavaScript #ReactJS #VueJS #GoLang #CloudComputing #makeyourownlane #Serverless #Linux #B2B #CEO #CXO #CTO #CIO https://t.co/6i30xYkYPF","294020478","1243792630586191872",2020-03-28 06:50:46,3
+"Euler Problem 6: Find the difference between the sum of the squares of the first one hundred natural numbers and the square of the sum #RStats #ProjectEuler #Math
+
+https://t.co/sGiDZKhkmX","1109354352966172672","1243719296573997056",2020-03-28 01:59:22,2
+"Fractions are an aesthetic way to express numbers, without having to resort to ugly random sequences of decimals. Ford Circles are a fractal structure to visualise all possible fractions #Numberphile #ProjectEuler #RStats
+
+https://t.co/lBIAgY7Lp2","1109354352966172672","1243791548401229824",2020-03-28 06:46:28,1
+"@rstats4ds #help! How do a #copypaste a #tukeysposthoc test #table of #results from #Rstats into an #excel #spreadsheet please?","1017627671415537666","1243790793619333120",2020-03-28 06:43:28,1
+"Our new R package slicebatch implements vector autoregressive models with endogenous weights and allows for Newey-White standard errors. #rdata #rstats","924830823509000193","1243788798271664133",2020-03-28 06:35:32,2
+"An #rstats conference today for ya'll https://t.co/ADKg0U8Dtj","253412938","1243781534127185922",2020-03-28 06:06:40,2
+"@Yuri_Niella @SharkMourier @VinayUdyawer @DrRossDwyer @AquaticTracking @GLATOS_Fish @IMOSAnimalTrack @hugomflavio I'm not familiar with what KUD is, but sounds like a job for gdistance #rstats pkg? INLA also has options for spatial GLMM with barriers,  called the 'barrier model'","268379363","1243775556061020162",2020-03-28 05:42:55,1
+"9 Free eBooks To Learn #DataScience In 2020. #BigData #Analytics #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Books #Linux #Programming #Coding #100DaysofCode","125301728","1243763447483052033",2020-03-28 04:54:48,58
+"Sigue la tendencia al alza de casos de #Covid19mx. 
+
+@pacocigarroa 
+#rstats #México #dataviz https://t.co/0FwS42daM9","111674998","1243752753576513537",2020-03-28 04:12:18,5
+"Esta gráfica te va a gustar @koteckitomasz 
+Suman 717 casos y aquí su distribución por grupos de edad y sexo. 
+
+#COVID19mx #Covid_19mx #rstats #México. https://t.co/CBrCWe3ujs","111674998","1243759974448345089",2020-03-28 04:41:00,4
+"@falanouc No music videos please. Only #rstats #DataScience #KnowledgeIsPower","1132387352465346561","1243757410801586182",2020-03-28 04:30:49,2
+"Okay let's get this data-set running #DataScience #Python #programming #Project #Solutions #2020 #Convid19uk #rstats","1132387352465346561","1243737507826630656",2020-03-28 03:11:44,2
+"@falanouc That is great to hear! Are you still in academics? #rstats 
+#published","1132387352465346561","1243750298830635009",2020-03-28 04:02:33,1
+"switching to github actions for my {pkgdown} deployment was really quick and painless thanks to {usethis}, very slick #rstats","833015012700651522","1243755307072921600",2020-03-28 04:22:27,1
+"An R package for analysing international COVID19 outbreak. 
+
+Please use it wisely for implementing safe policies for citizens.
+
+Update 2020-03-27
+#rstats #r #openscience #covid19 #COVID19Africa https://t.co/3RbJj3O2gF","1367336064","1243746692895211522",2020-03-28 03:48:13,22
+"An R package for analysing international COVID19 outbreak. 
+
+Please use it wisely for implement safe policies for citizens.
+
+Por favor úsenlo sabiamente para implementar políticas de resguardo de los cuidadanos
+
+Update 2020-03-27
+#rstats #r #openscience #covid19 #covid19latam https://t.co/Ejipc9O08G","1367336064","1243715087002734592",2020-03-28 01:42:38,11
+"The {recipes} package is harder-to-google than average.  
+
+I dont know what I was expecting.   
+
+ #rstats  @topepos https://t.co/SGhJeHQtYg","4345403860","1243744812597227521",2020-03-28 03:40:45,1
+"The more you talk about #rstats packages and functions, the more it sounds like you're having a stroke...","3550422914","1243740945994178562",2020-03-28 03:25:23,1
+"Honestly I would fight someone over how great the #tidyverse is, but now that I've discovered data.table, its gonna be hard to go back to tibbles... #rstats","3550422914","1243737415140941824",2020-03-28 03:11:21,2
+"Hey #rstats and #epitwitter , modeling question: 
+
+while we see people using Poisson and NB likelihoods for incidence data, I wonder if cumulative probability models can be useful there. Insights? 
+
+@f2harrell  and @nalhsyjones your thoughts would be much appreciated if possible!","324074474","1243740638358708226",2020-03-28 03:24:10,3
+"There is a tiny little boy here who enjoys his mommy working from home. He gets to participate in Zoom meetings, watches some lines of R code appear or some protein atoms jiggle in VMD, sleeps on top of some papers (sniffs all the highlighted text), etc. #workingfromhome #rstats https://t.co/fleDuPIdsE","157606887","1243740464207069184",2020-03-28 03:23:28,2
+"#rstats how do you truly feel about python ?","355068188","1243739673752723462",2020-03-28 03:20:20,2
+"Today's #rstats cheatsheet: sparklyr
+Download: https://t.co/oOr1ypzYSu
+See more: https://t.co/KgJ4eggU4l
+Contribute your own: https://t.co/KLVFg0ougL https://t.co/RgRQRn2zCt","987645988037976065","1243734582031273986",2020-03-28 03:00:06,4
+"Learning R : Introduction to matrices and factors.  #SQLServer 2016 #rstats https://t.co/jRnUlbzlx2","400146672","1243734576041725952",2020-03-28 03:00:05,2
+"Learning R : Statistical Programming Language Part 1 #SQLServer 2016 #rstats https://t.co/3vzuqSxTd9","400146672","1243719477231001601",2020-03-28 02:00:05,2
+"Grid Search and Bayesian Hyperparameter Optimization using {tune} and {caret} packages https://t.co/SicOU6ElVt #rstats via @datascienceplus","3409901933","1243721051458228229",2020-03-28 02:06:20,1
+"E-Learning Quizzes with R/exams for Moodle and OpenOLAT #rstats #datascience https://t.co/60BKhE6Feu","844152803991994368","1243716279569125376",2020-03-28 01:47:22,2
+"#rstats #boston #DataScience #DataAnalytics #DataIsBeautiful","1161674287541039104","1243715196365033472",2020-03-28 01:43:04,1
+"while everybody is working on COVID-19 data, i am looking for data on those who lost their jobs and closed businesses. any ideas? #covid19 #rstats #DataScience","2186228077","1243711443947515904",2020-03-28 01:28:09,2
+"#COVID19 number of confirmed cases in US passes 100,000
+
+Post: https://t.co/zyl4s98pt5
+
+#rstats #ggplot #tidyverse https://t.co/wEMRf1IGgV","1095171177834778625","1243709894982762501",2020-03-28 01:22:00,2
+"Today I learned...
+
+`head(read_csv('path/to/file.csv'), n=5)` 
+
+in #rstats using {readr} library 📦 imported, 
+
+is equivalent to:
+
+`https://t.co/HVuVE3hxaY_csv('path/to/file.csv').head()` 
+
+in #python3 after importing {pandas} module as {pd}.","1143783869268680704","1243709206324113409",2020-03-28 01:19:16,2
+"In teaching some intro-to-ML stuff, I've noticed that there's not a nice automated way to visualize decision tree partitions in #ggplot2.  
+
+So I packaged up some simple functions in my spare time (ha ha, I know).  Feel free to kick the tyres. https://t.co/5bi4oR88ZB #rstats https://t.co/fWJsmbKnTl","281612040","1243707282401013761",2020-03-28 01:11:37,73
+"whoa! look at those 3D #visualization by @tylermorganwall  ... awesome stuff in #rstats! #bookmark
+
+https://t.co/ReCWnA9Sby","8647102","1243706385008713728",2020-03-28 01:08:03,0
+"Q: Does the @RStudio Console now preserve option 'error' if set during the R startup (.Rprofile)?
+
+It looks so from my current tests on RStudio 1.2.5033.  If I recall it correctly, in past 'error' was always overwritten according to 'Debug -&gt; On Error'
+
+#rstats
+
+cc/ @kevin_ushey","46782674","1243705146606927872",2020-03-28 01:03:08,1
+"#rstats #shiny devs, is it possible to use a confirmation alert in the middle of a downloadHandler? I am trying to have the user confirm they want to download data that is a little larger than normal. So far all I've tried is to use req() in the middle","853449102683627521","1243700649767944193",2020-03-28 00:45:16,2
+"Thanks to @nytimes making their data public, I added county-level data for the US in my #covid19 #dataviz app. 
+
+Next step, learning how to add interactive maps (world + US) to the app. This stay-at-home situation is working wonders with my #rstats skills :-) https://t.co/ngY943Xsmx","192679212","1243697006771658755",2020-03-28 00:30:47,6
+"Finally, as always, data are from a combination of @nytimes and @TexasDownUnder's #COVID19 projects. 
+
+All #rstats code is available here - https://t.co/I7RtouVlx9 
+
+6/6","507582860","1243696640185323521",2020-03-28 00:29:20,1
+"#rstats","2431563150","1243694239617253377",2020-03-28 00:19:48,1
+"homoscedasticity should not be a word  #stats #rstats #biostats https://t.co/eOLfSjSYMN","752548675","1243692377937784839",2020-03-28 00:12:24,1
+"And I've used and abused his @Adobe #RStats package. Hire him. #measure","62687409","1243692241304125449",2020-03-28 00:11:51,1
