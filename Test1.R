@@ -14,6 +14,7 @@ yearwise_repositories <- function(year1){
 
   while (theDate <= end)
   {
+    Sys.sleep(30)
     req <- GET(paste("https://api.github.com/search/repositories?q=language:R+created:",theDate,"&per_page=100&sort=stars&order=desc&page=1",sep=""))
     stop_for_status(req)
     con <- (content(req, "parsed"))
@@ -48,7 +49,7 @@ yearwise_repositories <- function(year1){
             name<-c(name,con[['items']][[j]][['name']])
             repo_id<-c(repo_id,con[['items']][[j]][['id']])
             created_at<-c(created_at,con[['items']][[j]][['created_at']])
-            month_created<-c(month_created,month)
+            month_created<-c(month_created,as.character(theDate,format="%b"))
         }
         x<-x-100
       }
@@ -60,7 +61,6 @@ yearwise_repositories <- function(year1){
             month_created<-c(month_created,as.character(theDate,format="%b"))
         }
       }
-      print(i)
     }
 
     # saveRDS(df,paste("repos_of_",year1,".rds"))
