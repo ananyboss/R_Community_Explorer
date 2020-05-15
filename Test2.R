@@ -4,8 +4,8 @@ args = commandArgs(trailingOnly=TRUE)
 
 api_key <- "DKuqRXxAJ57CCqMCGwUTdm9Ct"
 api_secret_key <- "DYVz1VBbo2ZYcr6cw8664qVDY3dIzzxCdShP2E0TlZKopPEmEL"
-access_token <- "1242860641192304641-V0EvWx9KVeOiZNwFMjb4nCbR0b9Hm0"
-access_token_secret <- args[1]
+access_token <- args[1]
+access_token_secret <- args[2]
 
 token <- create_token(
   app = "Data_Collect_1234567890",
