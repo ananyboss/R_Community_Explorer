@@ -29,7 +29,7 @@ before_deploy:
       
 deploy:
   - provider: script
-    script: Rscript Test2.R $access_token_secret
+    script: Rscript Test2.R $access_token $access_token_secret
     skip_cleanup: true
     file: "Tweet_data.csv"
     overwrite: true
