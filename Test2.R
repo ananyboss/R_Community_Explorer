@@ -1,9 +1,15 @@
-install.packages("rtweet")
+## install devtools package if it's not already
+if (!requireNamespace("devtools", quietly = TRUE)) {
+  install.packages("devtools")
+}
+
+## install dev version of rtweet from github
+devtools::install_github("mkearney/rtweet")
 library(rtweet)
 args = commandArgs(trailingOnly=TRUE)
 
-api_key <- "dkzw0ibNo2LxpsSPxdFiBZCMS"
-api_secret_key <- "YBwXoxL4lc57CeKGNXBVwSE57TQ3BvwoI8pszNcXeMfc061jsp"
+api_key <- "BDAXuqA2M4Ro6j4vE2p5BSDbv"
+api_secret_key <- "wIyeHYJtfqlnGE1H3wjtH1FlP5bXVliHubRkBGEWWRPEtZ6XeF"
 access_token <- args[1]
 access_token_secret <- args[2]
 
@@ -20,4 +26,3 @@ data <- search_tweets(q="#rstats", since=Sys.Date()-1, until=Sys.Date(),retryonr
 
 df<-data.frame(data$text,data$user_id,data$status_id,data$created_at,data$retweet_count)
 write.table(df, "Tweet_data.csv", sep = ",", col.names = !file.exists("Tweet_data.csv"), append = TRUE,row.names=FALSE)
-
